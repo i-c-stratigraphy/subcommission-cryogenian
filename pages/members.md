@@ -69,7 +69,7 @@ Russian Academy of Sciences (RAS), Russia
 **Konstantin Nagovitsin**  
 ​TIPGG, Russian Academy of Sciences  
 Novosibirsk, Russia  
-<​nagovicinKE@ipgg.sbras.ru>  
+[​nagovicinKE@ipgg.sbras.ru](nagovicinKE@ipgg.sbras.ru)  
 
 <a href="person-porter"><img src="images/person-porter.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Susannah Porter**  

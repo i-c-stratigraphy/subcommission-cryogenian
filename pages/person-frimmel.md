@@ -4,7 +4,7 @@ title: "Fabricio Caxito"
 permalink: /person-frimmel
 ---
 
-<img src="/images/person-caxito.png" style="width:200px; float:left; margin-right:20px;"/>
+<img src="images/person-frimmel.png" style="width:200px; float:left; margin-right:20px;"/>
 **Federal University of Minas Gerais**  
 **Brazil**  
 <facaxito@yahoo.com.br>

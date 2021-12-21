@@ -3,7 +3,7 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>International Commission on Stratigraphy</title>
-    <link href="/images/logo-ics.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <link href="https://stratigraphy.org/images/logo-ics.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
     <style>
         body {
             text-align: center;
@@ -158,14 +158,14 @@
         }
     </style>
     <script>
-        var x = -1 ;
+        var x = Math.floor(Math.random() * 6) ;
         var banners = [
-            "https://stratigraphy.org/subcommission-cambrian/images/panorama01.jpg",
-            "https://stratigraphy.org/subcommission-cambrian/images/panorama02.jpg",
-            "https://stratigraphy.org/subcommission-cambrian/images/panorama03.jpg",
-            "https://stratigraphy.org/subcommission-cambrian/images/panorama04.jpg",
-            "https://stratigraphy.org/subcommission-cambrian/images/panorama05.jpg",
-            "https://stratigraphy.org/subcommission-cambrian/images/panorama05.jpg",
+            "/images/banner-8630-s.jpg",
+            "/images/banner-45677040-s.jpg",
+            "/images/banner-60198690-s.jpg",
+            "/images/banner-112054281-s.jpg",
+            "/images/banner-168038510-s.png",
+            "/images/banner-1677665249-s.png",
         ];
 
         function displayNextImage() {
@@ -184,7 +184,7 @@
         }    
     </script>    
 </head>
-<body onload = "startTimer()">
+<body onload="startTimer()">
     <div id="widther">
         <div id="header">
             <div style="text-align:right;">
@@ -197,9 +197,11 @@
             </div>
         </div>
         <div id="banner">
-            <!-- <img id="banner-img" />
+            <img id="banner-img" />
+            <!-- 
             <button type="button" class="banner" onclick="displayPreviousImage()" style="float:left;">&lt;Previous</button>
-            <button type="button" class="banner" onclick="displayNextImage()" style="float:right;">Next &gt;</button> -->
+            <button type="button" class="banner" onclick="displayNextImage()" style="float:right;">Next &gt;</button>
+            -->
         </div>
         <div id="body-grid">
             <div id="sidebar" style="grid-column: 1;">

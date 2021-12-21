@@ -14,6 +14,44 @@ Welcome to the Cryogenian webinar series, hosted by the Subcommission on Cryogen
 
 <hr />
 
+<img src="/images/person-lechte.jpg" style="width:100px; float:left; margin-right:20px;" />  
+
+**3rd September, 2021.  13:00 GMT, London time 14:00**
+
+### Glaciomarine iron formations of the Flinders Ranges, South Australia: insights into the Sturtian ice age
+
+**Maxwell Lechte**
+
+Dr. Maxwell Lechte is a Postdoctoral Researcher at McGill University, funded by the Moore-Simons Project on the Origin of the Eukaryotic Cell. He uses both sedimentological and geochemical approaches in order to research marine iron cycling and palaeoenvironmental change coincident with important intervals of eukaryotic evolution during the Proterozoic. 
+
+The Sturtian ice age (ca. 720–660 Ma) marked the start of the Cryogenian Period with arguably the most extreme glaciation in Earth’s history, and investigating the Sturtian sedimentary record is crucial to understanding the impact of this climate change on Earth’s surface systems. Because Cryogenian glacial successions generally comprise thick packages of diamictites and mass flow deposits, obscured by erosional unconformities, deciphering palaeoenvironmental conditions can be difficult. A characteristic feature of Sturtian glacial deposits is the presence of iron-rich, marine chemical sedimentary rocks, and these iron formations offer a unique window into synglacial marine conditions. The Flinders Ranges (South Australia) features some of the best-preserved examples of Cryogenian iron formations which are interpreted to have been deposited in a range of glaciomarine environments, permitting a spatial reconstruction of the palaeoredox landscape. In this talk, I will present the sedimentology, petrography and geochemistry of the glacial-associated iron formations of South Australia, and compare these to broadly correlative examples found globally in order to present a model for Cryogenian iron formation genesis. Multiple geochemical proxies (redox sensitive metal enrichments, Fe isotopes, rare earth elements) reveal widespread marine anoxia with increasing oxidation with proximity to the ice shelf grounding line, suggesting that oxygen may have been supplied to anoxic marine environments by glacial meltwater outwash during the Sturtian glaciation.
+
+
+
+<hr />
+
+<img src="/images/person-hood.jpg" style="width:100px; float:left; margin-right:20px;" />  
+
+**20th August, 2021.  11:00 GMT**  
+
+### Cryogenian glacial and interglacial carbonates of the Flinders Ranges, South Australia
+
+**Ashleigh Hood**
+
+Dr. Ashleigh Hood is a Lecturer in the School of Earth Sciences, University of Melbourne. Her research concerns improving our understanding of Precambrian marine environments and the evolution of the early Earth. To do this she integrates sedimentology, stratigraphy and geochemistry in both field and lab work.
+
+The Adelaide Fold Belt, South Australia hosts an extensive and well-exposed Tonian to Cryogenian stratigraphic succession. This talk will give an overview of this stratigraphy, with particular focus on marine dolomite units and reef complexes from the central and northern Flinders Ranges. Tonian sediments of the Burra Group host tidal-barrier systems and unusual sedimentary magnesite deposits. Sturtian glacial sediments are several kilometres in stratigraphic thickness and include dolomitic lithologies which appear to be marine authigenic precipitates rather than detrital carbonates. These carbonates have carbon isotope signatures which differ from underlying carbonates and show possible stratigraphic trends. Cryogenian interglacial sediments include unusual marine authigenic dolomite horizons (including cap carbonates) and basin-scale, reef complex development. Reefs host deep-water organic frameworks of an encrusting biota that appears to be confined to the Neoproterozoic, and are now composed of dolomite. Marine cements within the reefs show chemical evidence for widespread marine anoxia during this time. It is likely that Neoproterozoic ocean chemical conditions contributed to the abundance of marine dolomite precipitation during this time. The distribution of dolomitic lithologies through glacial and interglacial stratigraphy also has implications for climate conditions during the Cryogenian.
+
+<hr />
+
+**International workshop on "Cryogenian glaciation: the extraordinary Port Askaig record"**  
+**26th -27th May, 2021**  
+
+This workshop is designed to allow full presentations of the results of a long-term field campaign on the 1100 m thick Port Askaig Formation focussed on the extraordinarily complete exposures in the Garvellach Islands and Islay. Presentations  include virtual fieldtrips. ​In total, 13 talks were given in this two-day workshop. If you are interested, please see [the note for the workshop](#cryogenian-glaciation-the-extraordinary-port-askaig-record).
+
+
+<hr />
+
 <img src="/images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" />  
 **19th February, 2021. 14:00 GMT**  
 Time-calibrated records of the Tonian and the Tonian/Cryogenian transition from the Tambien Group of the Arabian-Nubian Shield  

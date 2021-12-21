@@ -10,7 +10,7 @@ The Subcommission is organized by an Executive consisting of Chair, Vice-Chair a
 
 ## Officers
 <div class="person">
-    <img src="/images/person-zhu.jpg" alt="" />
+    <img src="images/person-zhu.jpg" alt="" />
     <h4>Chair: Maoyan Zhu</h4>
     <p>
         State Key of Palaeobiology and Stratigraphy & Center for Excellence in Life and Paleoenvironment<br />
@@ -22,7 +22,7 @@ The Subcommission is organized by an Executive consisting of Chair, Vice-Chair a
 </div>
 
 <div class="person">
-    <img src="/images/person-dehler.jpg" alt="" />
+    <img src="images/person-dehler.jpg" alt="" />
     <h4>Vice-Chair: Carol Dehler</h4>
     <p>
         Professor, Department of Geology<br />
@@ -34,7 +34,7 @@ The Subcommission is organized by an Executive consisting of Chair, Vice-Chair a
 </div>
 
 <div class="person">
-    <img src="/images/person-zhou.jpg" alt="" />
+    <img src="images/person-zhou2.jpg" alt="" />
     <h4>Secretary: Ying Zhou</h4>
     <p>
         Department of Earth Sciences<br />

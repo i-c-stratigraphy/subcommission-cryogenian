@@ -14,7 +14,7 @@ Welcome to the Cryogenian webinar series, hosted by the Subcommission on Cryogen
 
 <hr />
 
-<img src="/images/person-lechte.jpg" style="width:100px; float:left; margin-right:20px;" />  
+<img src="images/person-lechte.jpg" style="width:100px; float:left; margin-right:20px;" />  
 
 **3rd September, 2021.  13:00 GMT, London time 14:00**
 
@@ -30,7 +30,7 @@ The Sturtian ice age (ca. 720–660 Ma) marked the start of the Cryogenian Perio
 
 <hr />
 
-<img src="/images/person-hood.jpg" style="width:100px; float:left; margin-right:20px;" />  
+<img src="images/person-hood.jpg" style="width:100px; float:left; margin-right:20px;" />  
 
 **20th August, 2021.  11:00 GMT**  
 
@@ -52,7 +52,7 @@ This workshop is designed to allow full presentations of the results of a long-t
 
 <hr />
 
-<img src="/images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" />  
+<img src="images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" />  
 **19th February, 2021. 14:00 GMT**  
 Time-calibrated records of the Tonian and the Tonian/Cryogenian transition from the Tambien Group of the Arabian-Nubian Shield  
 Nicholas Swanson-Hysell  
@@ -61,7 +61,7 @@ The Tonian-Cryogenian Tambien Group of northern Ethiopia is a mixed carbonate-si
 
 <hr />
 
-<img src="/images/person-dehler.jpg" style="width:100px; float:left; margin-right:20px;" />  
+<img src="images/person-dehler.jpg" style="width:100px; float:left; margin-right:20px;" />  
 **18th December, 2020.  14:00 GMT**  
 A More Complete Cryogenian Record of SE Idaho, U.S.A.  
 Carol DehlerMark Schmitz, Matt Ellison, Adolph Yonkee, Vince Isakson, F. Macdonald, Corey Wall  

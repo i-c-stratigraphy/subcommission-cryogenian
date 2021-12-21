@@ -8,17 +8,17 @@ The Subcommission is organized by an Executive consisting of Chair, Vice-Chair a
 
 ## Officers (2020-2024)
 
-<img src="/images/person-zhu.jpg" style="width:100px;" />  
+<a href="person-zhu"><img src="images/person-zhu.jpg" style="width:100px;" /></a>  
 Chair: **Maoyan Zhu**  
 Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, China  
 <myzhu@nigpas.ac.cn>  
 
-<img src="/images/person-dehler.jpg" style="width:100px;" />  
+<img src="images/person-dehler.jpg" style="width:100px;" />  
 Vice Chair: **Carol Dehler**  
 Department of Geology, Utah State University, USA  
 <Carol.Dehler@usu.edu>  
 
-<img src="/images/person-zhou.jpg" style="width:100px;" />  
+<a href="person-zhou2"><img src="images/person-zhou2.jpg" style="width:100px;" /></a>  
 Secretary: **Ying Zhou**  
 Department of Earth Science, University College London, UK  
 <y-zhou@ucl.ac.uk>  
@@ -26,18 +26,18 @@ Department of Earth Science, University College London, UK
 ## Voting members
 ### _in alphabetical order_
 
-<img src="/images/person-caxito.png" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-caxito"><img src="images/person-caxito.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Fabricio Caxito​**  
 Federal University of Minas Gerais  
 ​Brazil  
 <facaxito@yahoo.com.br>  
 
-<img src="/images/person-fairchild.jpg" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-fairchild"><img src="images/person-fairchild.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ian Fairchild**  
 University of Birmingham, ​UK  
 <i.j.fairchild@bham.ac.uk>  
 
-<img src="/images/person-frimmel.png" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-frimmel"><img src="images/person-frimmel.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Hartwig Frimmel**  
 University of Würzburg  
 Germany  
@@ -49,7 +49,7 @@ Geological Survey, Windhoek
 Namibia  
 <mkh.hoffmann@iway.na>  
 
-<img src="/images/person-halverson.jpeg" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-halverson"><img src="images/person-halverson.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Galen Halverson**  
 McGill University, Montreal, Quebec, Canada  
 <galen.halverson@mcgill.ca>  
@@ -60,7 +60,7 @@ Institute of Precambrian Geology and Geochronology
 Russian Academy of Sciences (RAS), Russia  
 <antonbor9@mail.ru>  
 
-<img src="/images/person-laflamme.jpeg" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-laflamme"><img src="images/person-laflamme.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Marc Laflamme**  
 ​University of Toronto Mississauga, Canada  
 <marc.laflamme@utoronto.ca>  
@@ -71,18 +71,18 @@ Russian Academy of Sciences (RAS), Russia
 Novosibirsk, Russia  
 <​nagovicinKE@ipgg.sbras.ru>  
 
-<img src="/images/person-porter.jpeg" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-porter"><img src="images/person-porter.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Susannah Porter**  
 University of California at Santa Barbara, USA  
 <orter@geol.ucsb.edu>  
 
-<img src="/images/person-prave.jpeg" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-prave"><img src="images/person-prave.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Tony Prave**  
 University of St Andrews  
 St Andrews, UK  
 <ap13@st-andrews.ac.uk>  
 
-<img src="/images/person-riedman.png" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-riedman"><img src="images/person-riedman.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Leigh Anne Riedman**  
 ​University of California, Santa Barbara, USA  
 <lriedman@ucsb.edu>  
@@ -100,13 +100,13 @@ School of Earth and Space Science
 ​Peking University, Beijing, China  
 <bingshen@pku.edu.cn>  
 
-<img src="/images/person-shields.png" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-shields"><img src="images/person-shields.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Graham Shields**  
 ​Department of Earth Sciences  
 ​University College London, United Kingdom  
-<​g.shields@ucl.ac.uk>  
+[​g.shields@ucl.ac.uk](​g.shields@ucl.ac.uk)  
 
-<img src="/images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-swanson-hysell"><img src="images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Nicholas L. Swanson-Hysell**  
 Earth and Planetary Science Department  
 ​University of California, Berkeley, California, USA  
@@ -118,12 +118,12 @@ School of Earth Sciences
 ​University of Melbourne Parkville, Australia  
 <mww@unimelb.edu.au> ​ 
 
-<img src="/images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-zhang"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Shihong Zhang**  
 State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences Beijing China  
 <shzhang@cugb.edu.cn>
 
-<img src="/images/person-zhou.png" style="width:100px; float:left; margin-right:20px;" />  
+<a href="person-zhou"><img src="images/person-zhou.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Chuanming Zhou**  
 Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences Nanjing, China  
 <cmzhou@nigpas.ac.cn>  

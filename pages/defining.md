@@ -42,5 +42,5 @@ Shields, Graham A. et al.
 
 This paper shows the consensus understanding of many Precambrian stratigraphers who make up the ICS working group on pre-Cryogenian subdivision, chaired by Prof. Graham Shields.  The working group involves ~35 Precambrian researchers globally who worked out how the first 85% of Earth history can best be subdivided so that the names and ages of periods, eras and eons match known tectonic, environmental and paleobiological events recorded in the rock record. The hope is that this will allow more intuitive appreciation of our planet’s formative years for future scientists, students and the general public. A global debate ensued (mostly during the various lockdowns) that resulted in surprising consensus.  The attached figure shows the proposed timescale, along with some explanation, which forms the basis of a white paper that the working group is now submitting formally to the International Commission on Stratigraphy for their consideration. 
 
-<img src="/images/old-and-new-timescales-figure_orig.png" style="width:100%;" />  
+<img src="images/old-and-new-timescales-figure_orig.png" style="width:100%;" />  
 

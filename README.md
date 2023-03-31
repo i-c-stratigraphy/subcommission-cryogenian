@@ -1,9 +1,9 @@
-# Cambrian Subcommission Website
+# Cryogenian Subcommission Website
 The small website for the Cambrian subcommission of the International Commission on Stratigraphy, online at <http://Cambrian.stratigraphy.org>.
 
 
 ## Content
-Content for this website is managed by the [Cambrian subcommission of the ICS](https://stratigraphy.org/subcommissions#cambrian).
+Content for this website is managed by the [Cryogenian subcommission of the ICS](https://stratigraphy.org/subcommissions#cryogenian).
 
 See Contacts below.
 
@@ -34,15 +34,10 @@ See the [local copy of the license deed](LICENSE) for details.
 
 
 ## Support and contacts
-*For website content:*  
-**Michael Streng**  
-Uppsala University  
-Department of Earth Sciences  
-Sweden  
-<Michael.Streng@geo.uu.se>
+See the Cryogenian Executive: <https://stratigraphy.org/subcommissions#cryogenian>
 
 
 *For website technical matters:*  
 **Dr Nicholas Car**  
 ICS Webmaster  
-<nicholas.car@surroundaustralia.com>  
+<nick@kurrawong.ai>  

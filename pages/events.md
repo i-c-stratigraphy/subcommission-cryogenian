@@ -11,18 +11,18 @@ permalink: /events
 ## Upcoming events
 Finally, after three years of COVID19, we now are able to have in-person conferences and fieldtrips. Two events of the submmission is now upcoming. 
 <hr />
-<img src="images/banniere_strati2023_lille.jpg" style="width:100px; float:left; margin-right:20px;" />  
-####Strati 2023 ***11th -13th July, 2023***
+<img src="images/banniere_strati2023_lille.jpg" style="width:400px; float:left; margin-right:20px;" />  
+### Strati 2023 ***11th -13th July, 2023***
 Our subcommission has a session: **SC16-Tonian to Cryogenian stratigraphy, palaeobiology and Earth system change**
 There will be 10 talks in the session and we plan to have evening discussions and possibly a meeting. Hope to see you in the beautiful Lille.
-<img src="images/Lille.jpg" style="width:100px; float:left; margin-right:20px;" />  
+<img src="images/Lille.jpg" style="width:200px; float:left; margin-right:20px;" />  
 
 <hr />
-####subcommission scotland fieldtrip ***14th -17th July, 2023***
+### subcommission scotland fieldtrip ***14th -17th July, 2023***
 Directly after Strati 2023, some of us will travel to Scotland. A short fieldtrip to the Garbh Eileach, led by Tony Spencer and Ian Fairchild. 
-<img src="images/Garvellachs.jpg" style="width:100px; float:left; margin-right:20px;" />  
+<img src="images/Garvellachs.jpg" style="width:400px; float:left; margin-right:20px;" />  
 The 12 people team will stay in Oban and travel to the island with boat.
-<img src="images/Oban.jpg" style="width:100px; float:left; margin-right:20px;" />  
+<img src="images/Oban.jpg" style="width:200px; float:left; margin-right:20px;" />  
 
 
 <hr />

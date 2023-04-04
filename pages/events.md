@@ -18,28 +18,27 @@ Finally, after three years of COVID19, we now are able to have in-person confere
 ### Strati 2023 ***11th -13th July, 2023***
 Our subcommission has a session: **SC16-Tonian to Cryogenian stratigraphy, palaeobiology and Earth system change**
 There will be 10 talks in the session and we plan to have evening discussions and possibly a meeting. Hope to see you in the beautiful Lille.
-
-
 <img src="images/Lille.jpg" style="width:200px; float:left; margin-right:20px;" />  
-
-
-
+\
+\
+\
+\
 <hr />
-
+\
 <img src="images/Garvellachs.jpg" style="width:400px; float:left; margin-right:20px;" />  
 
 
 ### subcommission scotland fieldtrip ***14th -17th July, 2023***
 Directly after Strati 2023, some of us will travel to Scotland. A short fieldtrip to the Garbh Eileach, led by Tony Spencer and Ian Fairchild. 
-
 The 12 people team will stay in Oban and travel to the island with boat.
 <img src="images/Oban.jpg" style="width:200px; float:left; margin-right:20px;" />  
-
-<br>
-
-
-
+\
+\
+\
+\
 <hr />
+
+
 ## Webinar Series
 
 Welcome to the Cryogenian webinar series, hosted by the Subcommission on Cryogenian Stratigraphy and organised by Ying Zhou. We aim to invite researchers to present their current research to prompt discussion around the icy middle part of the Neoproterozoic, the time leading to the Cryogenian Period and its aftermath. If you are interested in stratigraphy, geochemistry (organic, inorganic, isotope), palaeobiology of or related to the Cryogenian Period, feel free to join us (please email Ying) or forward to anyone you think may be interested.

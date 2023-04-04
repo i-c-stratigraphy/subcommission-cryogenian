@@ -24,7 +24,7 @@ Directly after Strati 2023, some of us will travel to Scotland. A short fieldtri
 The 12 people team will stay in Oban and travel to the island with boat.
 <img src="images/Oban.jpg" style="width:200px; float:left; margin-right:20px;" />  
 
-
+<br>
 <hr />
 ## Webinar Series
 

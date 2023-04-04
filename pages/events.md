@@ -4,7 +4,7 @@ title: "Events"
 permalink: /events
 ---
 
-* [WebinarSeries](#webinar-series)
+* [Webinar Series](#webinar-series)
 * [Conferences](#conferences)
 * [Meetings & Fieldtrips](#meetings-and-fieldtrips)
 

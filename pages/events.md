@@ -26,7 +26,7 @@ There will be 10 talks in the session and we plan to have evening discussions an
 \
 \
 <hr />
-\
+
 <img src="images/Garvellachs.jpg" style="width:400px; float:left; margin-right:20px;" />  
 
 
@@ -34,6 +34,7 @@ There will be 10 talks in the session and we plan to have evening discussions an
 Directly after Strati 2023, some of us will travel to Scotland. A short fieldtrip to the Garbh Eileach, led by Tony Spencer and Ian Fairchild. 
 The 12 people team will stay in Oban and travel to the island with boat.
 <img src="images/Oban.jpg" style="width:200px; float:left; margin-right:20px;" />  
+\
 \
 \
 \

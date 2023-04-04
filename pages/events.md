@@ -26,8 +26,6 @@ The 12 people team will stay in Oban and travel to the island with boat.
 
 
 <hr />
-
-
 ## Webinar Series
 
 Welcome to the Cryogenian webinar series, hosted by the Subcommission on Cryogenian Stratigraphy and organised by Ying Zhou. We aim to invite researchers to present their current research to prompt discussion around the icy middle part of the Neoproterozoic, the time leading to the Cryogenian Period and its aftermath. If you are interested in stratigraphy, geochemistry (organic, inorganic, isotope), palaeobiology of or related to the Cryogenian Period, feel free to join us (please email Ying) or forward to anyone you think may be interested.

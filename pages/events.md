@@ -3,6 +3,9 @@ layout: page
 title: "Events"
 permalink: /events
 ---
+
+# Events
+
 * [Upcoming Events](#upcoming-events)
 * [Webinar Series](#webinar-series)
 * [Conferences](#conferences)
@@ -13,25 +16,25 @@ Finally, after three years of COVID19, we now are able to have in-person confere
 
 ---
 
-### Strati 2023 ***11th -13th July, 2023***
+### Strati 2023 ***11th-13th July, 2023***
 
 <img src="images/banniere_strati2023_lille.jpg" style="width:400px;" /><br />
 
 Our subcommission has a session: **SC16-Tonian to Cryogenian stratigraphy, palaeobiology and Earth system change**
 There will be 10 talks in the session and we plan to have evening discussions and possibly a meeting. Hope to see you in the beautiful Lille.
 
-<img src="images/Lille.jpg" style="width:200px;" />  
+<img src="images/Lille.jpg" style="width:400px;" />  
 
 ---
 
-### subcommission scotland fieldtrip ***14th -17th July, 2023***
+### Subcommission Scotland fieldtrip ***14th-17th July, 2023***
 
 <img src="images/Garvellachs.jpg" style="width:400px;" /><br />
 
 Directly after Strati 2023, some of us will travel to Scotland. A short fieldtrip to the Garbh Eileach, led by Tony Spencer and Ian Fairchild. 
 The 12 people team will stay in Oban and travel to the island with boat.
 
-<img src="images/Oban.jpg" style="width:200px;" />  
+<img src="images/Oban.jpg" style="width:400px;" />  
 
 ---
 

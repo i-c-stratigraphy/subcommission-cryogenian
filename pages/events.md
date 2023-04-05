@@ -3,52 +3,43 @@ layout: page
 title: "Events"
 permalink: /events
 ---
-* [upcoming events](#upcoming events)
+* [Upcoming Events](#upcoming-events)
 * [Webinar Series](#webinar-series)
 * [Conferences](#conferences)
 * [Meetings & Fieldtrips](#meetings-and-fieldtrips)
 
-## Upcoming events
+## Upcoming Events
 Finally, after three years of COVID19, we now are able to have in-person conferences and fieldtrips. Two events of the submmission is now upcoming. 
-<hr />
 
-<img src="images/banniere_strati2023_lille.jpg" style="width:400px; float:left; margin-right:20px;" />  
-
+---
 
 ### Strati 2023 ***11th -13th July, 2023***
+
+<img src="images/banniere_strati2023_lille.jpg" style="width:400px;" /><br />
+
 Our subcommission has a session: **SC16-Tonian to Cryogenian stratigraphy, palaeobiology and Earth system change**
 There will be 10 talks in the session and we plan to have evening discussions and possibly a meeting. Hope to see you in the beautiful Lille.
-<img src="images/Lille.jpg" style="width:200px; float:left; margin-right:20px;" />  
-\
-\
-\
-\
-\
-\
-<hr />
 
-<img src="images/Garvellachs.jpg" style="width:400px; float:left; margin-right:20px;" />  
+<img src="images/Lille.jpg" style="width:200px;" />  
 
+---
 
 ### subcommission scotland fieldtrip ***14th -17th July, 2023***
+
+<img src="images/Garvellachs.jpg" style="width:400px;" /><br />
+
 Directly after Strati 2023, some of us will travel to Scotland. A short fieldtrip to the Garbh Eileach, led by Tony Spencer and Ian Fairchild. 
 The 12 people team will stay in Oban and travel to the island with boat.
-<img src="images/Oban.jpg" style="width:200px; float:left; margin-right:20px;" />  
-\
-\
-\
-\
-\
-\
-\
-<hr />
 
+<img src="images/Oban.jpg" style="width:200px;" />  
+
+---
 
 ## Webinar Series
 
 Welcome to the Cryogenian webinar series, hosted by the Subcommission on Cryogenian Stratigraphy and organised by Ying Zhou. We aim to invite researchers to present their current research to prompt discussion around the icy middle part of the Neoproterozoic, the time leading to the Cryogenian Period and its aftermath. If you are interested in stratigraphy, geochemistry (organic, inorganic, isotope), palaeobiology of or related to the Cryogenian Period, feel free to join us (please email Ying) or forward to anyone you think may be interested.
 
-<hr />
+---
 
 <img src="images/person-lechte.jpg" style="width:100px; float:left; margin-right:20px;" />  
 
@@ -62,9 +53,7 @@ Dr. Maxwell Lechte is a Postdoctoral Researcher at McGill University, funded by 
 
 The Sturtian ice age (ca. 720–660 Ma) marked the start of the Cryogenian Period with arguably the most extreme glaciation in Earth’s history, and investigating the Sturtian sedimentary record is crucial to understanding the impact of this climate change on Earth’s surface systems. Because Cryogenian glacial successions generally comprise thick packages of diamictites and mass flow deposits, obscured by erosional unconformities, deciphering palaeoenvironmental conditions can be difficult. A characteristic feature of Sturtian glacial deposits is the presence of iron-rich, marine chemical sedimentary rocks, and these iron formations offer a unique window into synglacial marine conditions. The Flinders Ranges (South Australia) features some of the best-preserved examples of Cryogenian iron formations which are interpreted to have been deposited in a range of glaciomarine environments, permitting a spatial reconstruction of the palaeoredox landscape. In this talk, I will present the sedimentology, petrography and geochemistry of the glacial-associated iron formations of South Australia, and compare these to broadly correlative examples found globally in order to present a model for Cryogenian iron formation genesis. Multiple geochemical proxies (redox sensitive metal enrichments, Fe isotopes, rare earth elements) reveal widespread marine anoxia with increasing oxidation with proximity to the ice shelf grounding line, suggesting that oxygen may have been supplied to anoxic marine environments by glacial meltwater outwash during the Sturtian glaciation.
 
-
-
-<hr />
+---
 
 <img src="images/person-hood.jpg" style="width:100px; float:left; margin-right:20px;" />  
 
@@ -78,15 +67,14 @@ Dr. Ashleigh Hood is a Lecturer in the School of Earth Sciences, University of M
 
 The Adelaide Fold Belt, South Australia hosts an extensive and well-exposed Tonian to Cryogenian stratigraphic succession. This talk will give an overview of this stratigraphy, with particular focus on marine dolomite units and reef complexes from the central and northern Flinders Ranges. Tonian sediments of the Burra Group host tidal-barrier systems and unusual sedimentary magnesite deposits. Sturtian glacial sediments are several kilometres in stratigraphic thickness and include dolomitic lithologies which appear to be marine authigenic precipitates rather than detrital carbonates. These carbonates have carbon isotope signatures which differ from underlying carbonates and show possible stratigraphic trends. Cryogenian interglacial sediments include unusual marine authigenic dolomite horizons (including cap carbonates) and basin-scale, reef complex development. Reefs host deep-water organic frameworks of an encrusting biota that appears to be confined to the Neoproterozoic, and are now composed of dolomite. Marine cements within the reefs show chemical evidence for widespread marine anoxia during this time. It is likely that Neoproterozoic ocean chemical conditions contributed to the abundance of marine dolomite precipitation during this time. The distribution of dolomitic lithologies through glacial and interglacial stratigraphy also has implications for climate conditions during the Cryogenian.
 
-<hr />
+---
 
 **International workshop on "Cryogenian glaciation: the extraordinary Port Askaig record"**  
 **26th -27th May, 2021**  
 
 This workshop is designed to allow full presentations of the results of a long-term field campaign on the 1100 m thick Port Askaig Formation focussed on the extraordinarily complete exposures in the Garvellach Islands and Islay. Presentations  include virtual fieldtrips. ​In total, 13 talks were given in this two-day workshop. If you are interested, please see [the note for the workshop](#cryogenian-glaciation-the-extraordinary-port-askaig-record).
 
-
-<hr />
+---
 
 <img src="images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" />  
 **19th February, 2021. 14:00 GMT**  
@@ -95,7 +83,7 @@ Nicholas Swanson-Hysell
 
 The Tonian-Cryogenian Tambien Group of northern Ethiopia is a mixed carbonate-siliciclastic sequence that culminates in glacial deposits associated with the first of the Cryogenian glaciations — the Sturtian Snowball Earth. Tambien Group deposition occurred atop arc volcanics and volcaniclastics of the Tsaliet Group. New U-Pb isotope dilution–thermal ionization mass spectrometry (ID-TIMS) dates demonstrate that the transition between the Tsaliet and Tambien Groups occurred at ca. 820 Ma in western exposures and ca. 795 Ma in eastern exposures, which is consistent with west to east arc migration and deposition in an evolving back-arc basin. The presence of intercalated tuffs suitable for high-precision geochronology within the Tambien Group enable temporal constraints on stratigraphic data sets of the interval preceding, and leading into, the Sturtian glaciation. Recently discovered exposures of Sturtian glacial deposits and underlying Tambien Group strata in the Samre Fold-Thrust Belt present the opportunity to further utilize this unique association of tuffs and carbonate lithofacies. U-Pb ID-TIMS ages from zircons indicate that Tambien Group carbonates were deposited from ca. 820 Ma until 0–2 m.y. before the onset of the Sturtian glaciation, making the group host to a relatively complete carbonate stratigraphy leading into this glaciation. New δ13C and 87Sr/86Sr data and U-Pb ID-TIMS ages from the Tambien Group can be used in conjunction with previously published isotopic and geochronologic data to construct newly time-calibrated composite Tonian carbon and strontium isotope curves. The composite Tonian 87Sr/86Sr curve shows that, following an extended interval of low and relatively invariant values, inferred seawater 87Sr/86Sr rose ca. 880–770 Ma, then subsequently decreased leading up to the ca. 717 Ma initiation of the Sturtian glaciation. These data, when combined with a simple global weathering model and analyses of the timing and paleolatitude of large igneous province eruptions and arc accretion events, support interpretations that the 87Sr/86Sr increase was influenced by increased subaerial weathering of radiogenic lithologies during initial rifting of Rodinia at low latitudes. The following 87Sr/86Sr decrease is consistent with enhanced subaerial weathering of arc lithologies accreting in the tropics over tens of millions of years, lowering pCO2 and contributing to the initiation of the Sturtian glaciation. Arc accretion events create steep landscapes that include mafic lithologies. Our work has shown that when such collisions occur within the tropical rain belt they have been particularly effective at enhancing global weatherability and cooling Earth's climate over the past 520 million years. This process may have also played a role in initiating the glacial climate state of the Cryogenian. 
 
-<hr />
+---
 
 <img src="images/person-dehler.jpg" style="width:100px; float:left; margin-right:20px;" />  
 **18th December, 2020.  14:00 GMT**  

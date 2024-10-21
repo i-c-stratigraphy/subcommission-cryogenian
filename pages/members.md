@@ -60,13 +60,13 @@ Senckenberg Naturhistorische Sammlungen Dresden
 Germany  
 <mandy.hofmann@senckenberg.de>  
 
-<a href="Dima"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="http://www.ipgg.sbras.ru/en/institute/staff/grazhdankindv"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Dmitriy Grazhdankin**  
 Trofimuk Institute of Petroleum Geology and Geophysics  
  Siberian Branch of the Russian Academy of Sciences, Russia  
 <GrazhdankinDV@ipgg.sbras.ru>  
 
-<a href="person-laflamme"><img src="images/person-laflamme.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://www.utm.utoronto.ca/cps/people/marc-laflamme"><img src="images/person-laflamme.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Marc Laflamme**  
 ​University of Toronto Mississauga, Canada  
 <marc.laflamme@utoronto.ca>  
@@ -83,25 +83,24 @@ Australia
 <jarred.lloyd@adelaide.edu.au>  
 
 <div style="clear:both;"></div>  
-<div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>  
+<a href="https://www.researchgate.net/profile/Konstantin-Nagovitsin"><div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>  
 **Konstantin Nagovitsin**  
 ​TIPGG, Russian Academy of Sciences  
 Novosibirsk, Russia  
 <nagovicinKE@ipgg.sbras.ru>  
 
- <a href="person-prave"><img src="images/person-prave.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
+ <a href="https://research-portal.st-andrews.ac.uk/en/persons/tony-prave"><img src="images/person-prave.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Tony Prave**  
 University of St Andrews  
 St Andrews, UK  
 <ap13@st-andrews.ac.uk>  
 
-<a href="person-riedman"><img src="images/person-riedman.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://www.geol.ucsb.edu/people/researchers/leigh-anne-riedman"><img src="images/person-riedman.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Leigh Anne Riedman**  
 ​University of California, Santa Barbara, USA  
 <lriedman@ucsb.edu>  
 
-<div style="clear:both;"></div>  
-<div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>  
+<a href="https://scholar.google.com.vn/citations?user=bPOOYmkAAAAJ&hl=en"><img src="images/Mukund Sharma.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Mukund Sharma Birbal Sahni**  
 ​Institute of Palaeobotany, Uttar Pradesh, India  
 <sharmamukund1@rediffmail.com>  

@@ -56,40 +56,41 @@ University of Melbourne
 Australia  
 <ashleigh.hood@unimelb.edu.au>  
 
-<div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>
-**Karl-Heinz Hoffmann**  
-Geological Survey, Windhoek  
-Namibia  
-<mkh.hoffmann@iway.na>  
+<a href="Mandy Zieger-Hofmann"><img src="images/Mandy Zieger-Hofmann.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Mandy Zieger-Hofmann**  
+Senckenberg Naturhistorische Sammlungen Dresden
+Germany  
+<mandy.hofmann@senckenberg.de>  
 
-<a href="person-halverson"><img src="images/person-halverson.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Galen Halverson**  
-McGill University, Montreal, Quebec, Canada  
-<galen.halverson@mcgill.ca>  
-
-<div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>
-**Anton Kuznetsov**  
-Institute of Precambrian Geology and Geochronology  
-Russian Academy of Sciences (RAS), Russia  
-<antonbor9@mail.ru>  
+<a href="Dima"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Dmitriy Grazhdankin**  
+Trofimuk Institute of Petroleum Geology and Geophysics
+ Siberian Branch of the Russian Academy of Sciences, Russia  
+<GrazhdankinDV@ipgg.sbras.ru>  
 
 <a href="person-laflamme"><img src="images/person-laflamme.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Marc Laflamme**  
 ​University of Toronto Mississauga, Canada  
 <marc.laflamme@utoronto.ca>  
 
+<a href="Maxwell-Lechte"><img src="images/Maxwell-Lechte.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Maxwell A. Lechte**  
+​McGill University, Montréal, QC, Canada, Canada  
+<maxwell.lechte@mail.mcgill.ca>  
+
+<a href="Jarred Lioyd"><img src="images/Jarred Lioyd.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Jarred C. Lloyd**  
+University of Adelaide
+Australia
+<jarred.lloyd@adelaide.edu.au> 
+
 <div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>
 **Konstantin Nagovitsin**  
 ​TIPGG, Russian Academy of Sciences  
 Novosibirsk, Russia  
-[​nagovicinKE@ipgg.sbras.ru](nagovicinKE@ipgg.sbras.ru)  
+<[​nagovicinKE@ipgg.sbras.ru>
 
-<a href="person-porter"><img src="images/person-porter.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Susannah Porter**  
-University of California at Santa Barbara, USA  
-<orter@geol.ucsb.edu>  
-
-<a href="person-prave"><img src="images/person-prave.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
+ <a href="person-prave"><img src="images/person-prave.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Tony Prave**  
 University of St Andrews  
 St Andrews, UK  
@@ -113,31 +114,27 @@ School of Earth and Space Science
 ​Peking University, Beijing, China  
 <bingshen@pku.edu.cn>  
 
-<a href="person-shields"><img src="images/person-shields.png" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Graham Shields**  
-​Department of Earth Sciences  
-​University College London, United Kingdom  
-[​g.shields@ucl.ac.uk](​g.shields@ucl.ac.uk)  
+<a href="Julia-Shuvalova"><img src="images/Julia-Shuvalova.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Julia Shuvalova**  
+Palaeontological Institute
+Russian Academy of Sciences,Russia
+<pinmuse@gmail.com>
 
 <a href="person-swanson-hysell"><img src="images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Nicholas L. Swanson-Hysell**  
 Earth and Planetary Science Department  
-​University of California, Berkeley, California, USA  
+University of California, USA
 <swanson-hysell@berkeley.edu>  
 
-<div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>
-**Malcolm Wallace**  
+<a href="person-Trindade"><img src="images/person-Trindade.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Ricardo I.F. Trindade**
 School of Earth Sciences  
-​University of Melbourne Parkville, Australia  
-<mww@unimelb.edu.au> ​ 
+​University of S˜ao Paulo (USP), Brazil  
+<ricardo.trindade@iag.usp.br> ​ 
 
 <a href="person-zhang"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Shihong Zhang**  
 State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences Beijing China  
 <shzhang@cugb.edu.cn>
 
-<a href="person-zhou"><img src="images/person-zhou.png" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Chuanming Zhou**  
-Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences Nanjing, China  
-<cmzhou@nigpas.ac.cn>  
 ​

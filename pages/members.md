@@ -84,6 +84,7 @@ University of Adelaide
 Australia  
 <jarred.lloyd@adelaide.edu.au>  
 
+<div style="clear:both;"></div>  
 <div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>  
 **Konstantin Nagovitsin**  
 ​TIPGG, Russian Academy of Sciences  
@@ -119,6 +120,7 @@ School of Earth and Space Science
 Palaeontological Institute  
 Russian Academy of Sciences,Russia  
 <pinmuse@gmail.com>  
+
 
 <a href="person-swanson-hysell"><img src="images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Nicholas L. Swanson-Hysell**  

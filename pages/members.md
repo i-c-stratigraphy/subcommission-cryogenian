@@ -8,17 +8,17 @@ The Subcommission is organized by an Executive consisting of Chair, Vice-Chair a
 
 ## Officers (2020-2024)
 
-<a href="person-zhu"><img src="images/person-zhu.jpg" style="width:100px;" /></a>  
+<a href="https://www.researchgate.net/profile/Maoyan-Zhu"><img src="images/person-zhu.jpg" style="width:100px;" /></a>  
 Chair: **Maoyan Zhu**  
 Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, China  
 <myzhu@nigpas.ac.cn>  
 
-<img src="images/person-dehler.jpg" style="width:100px;" />  
+<a href="https://www.usu.edu/geo/people/faculty/dehler-carol"><img src="images/person-dehler.jpg" style="width:100px;" />  
 Vice Chair: **Carol Dehler**  
 Department of Geology, Utah State University, USA  
 <Carol.Dehler@usu.edu>  
 
-<a href="person-zhou2"><img src="images/person-zhou2.jpg" style="width:100px;" /></a>  
+<a href="https://www.ucl.ac.uk/earth-sciences/people/research-staff/dr-ying-zhou"><img src="images/person-zhou2.jpg" style="width:100px;" /></a>  
 Secretary: **Ying Zhou**  
 Institute of Geosciences, Johannes-Gutenberg University, Mainz, Germany  
 <y.zhou@uni-mainz.de>  

@@ -112,7 +112,6 @@ School of Earth and Space Science
 ​Peking University, Beijing, China  
 <bingshen@pku.edu.cn>  
 
-
 <a href="https://www.researchgate.net/profile/Julia-Shuvalova"><img src="images/Julia-Shuvalova.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Julia Shuvalova**  
 Palaeontological Institute  

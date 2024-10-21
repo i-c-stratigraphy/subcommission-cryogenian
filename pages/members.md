@@ -26,7 +26,7 @@ Institute of Geosciences, Johannes-Gutenberg University, Mainz, Germany
 ## Voting members
 ### _in alphabetical order_
 
-<a href="HedaAgic"><img src="images/HedaAgic.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://www.durham.ac.uk/staff/heda-agic/"><img src="images/HedaAgic.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Heda Agić**   
 Durham University, UK 
 <heda.agic@durham.ac.uk>  
@@ -43,7 +43,7 @@ Federal University of Minas Gerais
 ​Brazil  
 <facaxito@yahoo.com.br>  
 
-<a href="Phoebe-Cohen"><img src="images/Phoebe-Cohen.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://sites.williams.edu/pac3/"><img src="images/Phoebe-Cohen.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Phoebe A. Cohen**  
 Wachenheim Science Center, Williams College, USA    
 <pac3@williams.edu>  
@@ -54,7 +54,7 @@ University of Melbourne
 Australia  
 <ashleigh.hood@unimelb.edu.au>  
 
-<a href="Mandy Zieger-Hofmann"><img src="images/Mandy Zieger-Hofmann.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://www.senckenberg.de/en/institutes/senckenberg-naturhistorische-sammlung-dresden/museum-of-mineralogy-and-geology/dd-sekt-geochronology/geochronology-staff/"><img src="images/Mandy Zieger-Hofmann.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Mandy Zieger-Hofmann**  
 Senckenberg Naturhistorische Sammlungen Dresden  
 Germany  
@@ -71,12 +71,12 @@ Trofimuk Institute of Petroleum Geology and Geophysics
 ​University of Toronto Mississauga, Canada  
 <marc.laflamme@utoronto.ca>  
 
-<a href="Maxwell-Lechte"><img src="images/Maxwell-Lechte.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://www.maxlechte.com/"><img src="images/Maxwell-Lechte.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Maxwell A. Lechte**  
 ​McGill University, Montréal, Canada  
 <maxwell.lechte@mail.mcgill.ca>  
 
-<a href="Jarred Lioyd"><img src="images/Jarred Lioyd.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://researchers.adelaide.edu.au/profile/jarred.lloyd"><img src="images/Jarred Lioyd.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Jarred C. Lloyd**  
 University of Adelaide  
 Australia  
@@ -106,27 +106,26 @@ St Andrews, UK
 ​Institute of Palaeobotany, Uttar Pradesh, India  
 <sharmamukund1@rediffmail.com>  
 
-<div style="clear:both;"></div>  
-<div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>  
+<a href="https://sess2.pku.edu.cn/english/people/facultyaz/269830.htm"><img src="images/Bing Shen.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Bing Shen**  
 School of Earth and Space Science  
 ​Peking University, Beijing, China  
 <bingshen@pku.edu.cn>  
 
-<a href="Julia-Shuvalova"><img src="images/Julia-Shuvalova.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://www.researchgate.net/profile/Julia-Shuvalova"><img src="images/Julia-Shuvalova.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Julia Shuvalova**  
 Palaeontological Institute  
 Russian Academy of Sciences,Russia  
 <pinmuse@gmail.com>  
 
 
-<a href="person-swanson-hysell"><img src="images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://vcresearch.berkeley.edu/faculty/nicholas-swanson-hysell"><img src="images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Nicholas L. Swanson-Hysell**  
 Earth and Planetary Science Department  
 University of California, USA  
 <swanson-hysell@berkeley.edu>  
 
-<a href="person-Trindade"><img src="images/person-Trindade.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://www.researchgate.net/profile/Ricardo-Trindade"><img src="images/person-Trindade.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ricardo I.F. Trindade**  
 School of Earth Sciences  
 ​University of Sao Paulo (USP), Brazil  

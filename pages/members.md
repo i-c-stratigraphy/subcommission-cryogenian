@@ -28,10 +28,8 @@ Department of Earth Science, University College London, UK
 
 <a href="HedaAgic"><img src="images/HedaAgic.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Heda Agić**   
-Durham University  
-United Kingdom  
+Durham University, UK 
 <heda.agic@durham.ac.uk>  
-
 
 <a href="Fred"><img src="images/Fred.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Fred T. Bowyer​**  
@@ -47,8 +45,7 @@ Federal University of Minas Gerais
 
 <a href="Phoebe-Cohen"><img src="images/Phoebe-Cohen.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Phoebe A. Cohen**  
-Wachenheim Science Center, Williams College  
-USA  
+Wachenheim Science Center, Williams College, USA    
 <pac3@williams.edu>  
 
 <a href="Person-Hood"><img src="images/Person-Hood.png" style="width:100px; float:left; margin-right:20px;" /></a>  

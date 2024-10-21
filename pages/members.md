@@ -100,6 +100,7 @@ St Andrews, UK
 ​University of California, Santa Barbara, USA  
 <lriedman@ucsb.edu>  
 
+<div style="clear:both;"></div>  
 <a href="https://scholar.google.com.vn/citations?user=bPOOYmkAAAAJ&hl=en"><img src="images/Mukund Sharma.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Mukund Sharma**  
 ​Institute of Palaeobotany, Uttar Pradesh, India  
@@ -119,7 +120,6 @@ Palaeontological Institute
 Russian Academy of Sciences,Russia  
 <pinmuse@gmail.com>  
 
-
 <a href="https://vcresearch.berkeley.edu/faculty/nicholas-swanson-hysell"><img src="images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Nicholas L. Swanson-Hysell**  
 Earth and Planetary Science Department  
@@ -134,7 +134,7 @@ School of Earth Sciences
 
 <a href="https://scholar.google.com/citations?user=fNVS3HUAAAAJ"><img src="images/Chuan Yang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Chuan Yang**  
-Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, China 
+Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, China  
 <cyang@nigpas.ac.cn>  
 
 <a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  

@@ -8,7 +8,7 @@ The Subcommission is organized by an Executive consisting of Chair, Vice-Chair a
 
 ## Officers (2020-2024)
 
-<a href="person-zhu"><img src="images/person-zhu.jpg" style="width:100px;" /></a>  
+<a href="person-zhu"><img src="images/person-zhu.jpg" style="width:100px;lenth:150px;" /></a>  
 Chair: **Maoyan Zhu**  
 Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, China  
 <myzhu@nigpas.ac.cn>  

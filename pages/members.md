@@ -8,7 +8,7 @@ The Subcommission is organized by an Executive consisting of Chair, Vice-Chair a
 
 ## Officers (2020-2024)
 
-<a href="person-zhu"><img src="images/person-zhu.jpg" style="width:100px;lenth:150px;" /></a>  
+<a href="person-zhu"><img src="images/person-zhu.jpg" style="width:100px;" /></a>  
 Chair: **Maoyan Zhu**  
 Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, China  
 <myzhu@nigpas.ac.cn>  
@@ -26,7 +26,7 @@ Department of Earth Science, University College London, UK
 ## Voting members
 ### _in alphabetical order_
 
-//<a href="HedaAgic"><img src="images/HedaAgic.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="HedaAgic"><img src="images/HedaAgic.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Heda Agić**  
 Durham University  
 United Kingdom  

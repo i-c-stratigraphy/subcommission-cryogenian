@@ -35,7 +35,7 @@ United Kingdom
 <a href="Fred"><img src="images/Fred.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Fred T. Bowyer​**  
 University of Leeds  
-United Kingdom
+United Kingdom  
 <fred.bowyer@ed.ac.uk>  
 
 <a href="person-caxito"><img src="images/person-caxito.png" style="width:100px; float:left; margin-right:20px;" /></a>  
@@ -44,10 +44,12 @@ Federal University of Minas Gerais
 ​Brazil  
 <facaxito@yahoo.com.br>  
 
-<a href="person-fairchild"><img src="images/person-fairchild.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Ian Fairchild**  
-University of Birmingham, ​UK  
-<i.j.fairchild@bham.ac.uk>  
+<a href="Phoebe-Cohen"><img src="images/Phoebe-Cohen.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Phoebe A. Cohen**  
+Wachenheim Science Center 
+Williams College
+The United States
+<pac3@williams.edu>  
 
 <a href="person-frimmel"><img src="images/person-frimmel.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Hartwig Frimmel**  

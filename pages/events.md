@@ -7,14 +7,17 @@ permalink: /events
 # Events
 
 * [Upcoming Events](#upcoming-events)
-* [Webinar Series](#webinar-series)
 * [Conferences](#conferences)
 * [Meetings & Fieldtrips](#meetings-and-fieldtrips)
+* [Webinar Series](#webinar-series)
 
 ## Upcoming Events
-Finally, after three years of COVID19, we now are able to have in-person conferences and fieldtrips. Two events of the submmission is now upcoming. 
+After three years of COVID19, the subcommission has organised or coorganised multiple events, including sessions in conferences, workshops and fieldtrips. 
 
 ---
+### MagellanPlus Workshop 2024 ***14th-16th July, 2024***
+
+
 
 ### Strati 2023 ***11th-13th July, 2023***
 

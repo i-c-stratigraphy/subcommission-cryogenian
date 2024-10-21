@@ -105,7 +105,8 @@ St Andrews, UK
 **Mukund Sharma Birbal Sahni**  
 ​Institute of Palaeobotany, Uttar Pradesh, India  
 <sharmamukund1@rediffmail.com>  
-
+<div style="clear:both;"></div>  
+ 
 <a href="https://sess2.pku.edu.cn/english/people/facultyaz/269830.htm"><img src="images/Bing Shen.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Bing Shen**  
 School of Earth and Space Science  

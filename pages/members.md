@@ -133,9 +133,14 @@ School of Earth Sciences
 ​University of Sao Paulo (USP), Brazil  
 <ricardo.trindade@iag.usp.br> ​ 
 
-<a href="person-zhang"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://scholar.google.com/citations?user=fNVS3HUAAAAJ"><img src="images/Chuan Yang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Chuan Yang**  
+Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, China 
+<cyang@nigpas.ac.cn>  
+
+<a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Shihong Zhang**  
-State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences Beijing China  
+State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences Beijing, China  
 <shzhang@cugb.edu.cn>  
 
 ​

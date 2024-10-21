@@ -31,7 +31,7 @@ Department of Earth Science, University College London, UK
 Durham University, UK 
 <heda.agic@durham.ac.uk>  
 
-<a href="[Fred](https://e4-dtp.ed.ac.uk/people/dtp-alumni/fred-bowyer)"><img src="images/Fred.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://e4-dtp.ed.ac.uk/people/dtp-alumni/fred-bowyer"><img src="images/Fred.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Fred T. Bowyer​**  
 University of Leeds  
 United Kingdom  

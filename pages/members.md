@@ -4,7 +4,7 @@ title: "Members"
 permalink: /members
 ---
 
-The Subcommission is organized by an Executive consisting of Chair, Vice-Chair and Secretary, who are all Voting Members of the Subcommission. These officers were appointed by ICS in 2024. There are currently 21 other Voting Members, making a total of 24 voting members.
+The Subcommission is organized by an Executive consisting of Chair, Vice-Chair and Secretary, who are all Voting Members of the Subcommission. These officers were appointed by ICS in 2024. There are currently 20 other Voting Members, making a total of 23 voting members.
 
 ## Officers (2024-2028)
 

@@ -26,8 +26,8 @@ Department of Earth Science, University College London, UK
 ## Voting members
 ### _in alphabetical order_
 
-<a href="HedaAgic"><img src="images/HedaAgic.jpg" style="width:100px; length:150px; float:left; margin-right:20px;" /></a>  
-**Heda Agić**  
+<a href="HedaAgic"><img src="images/HedaAgic.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Heda Agić**   
 Durham University  
 United Kingdom  
 <heda.agic@durham.ac.uk>  

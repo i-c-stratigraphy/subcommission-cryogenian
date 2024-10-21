@@ -87,7 +87,7 @@ Australia
 **Konstantin Nagovitsin**  
 ​TIPGG, Russian Academy of Sciences  
 Novosibirsk, Russia  
-<[​nagovicinKE@ipgg.sbras.ru>  
+<nagovicinKE@ipgg.sbras.ru>  
 
  <a href="person-prave"><img src="images/person-prave.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Tony Prave**  
@@ -129,7 +129,7 @@ University of California, USA
 <a href="person-Trindade"><img src="images/person-Trindade.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ricardo I.F. Trindade**  
 School of Earth Sciences  
-​University of S˜ao Paulo (USP), Brazil  
+​University of Sao Paulo (USP), Brazil  
 <ricardo.trindade@iag.usp.br> ​ 
 
 <a href="person-zhang"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  

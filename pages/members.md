@@ -50,7 +50,7 @@ Wachenheim Science Center, Williams College
 United States  
 <pac3@williams.edu>  
 
-<a href="person-Hood"><img src="images/person-Hood.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="Person-Hood"><img src="images/Person-Hood.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ashleigh v. S. Hood**  
 University of Melbourne  
 Australia  

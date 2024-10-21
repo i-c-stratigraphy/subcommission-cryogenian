@@ -44,7 +44,7 @@ Federal University of Minas Gerais
 ​Brazil  
 <facaxito@yahoo.com.br>  
 
-<a href="Phoebe-Cohen"><img src="images/Phoebe-Cohen.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="Phoebe-Cohen"><img src="images/Phoebe-Cohen.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Phoebe A. Cohen**  
 Wachenheim Science Center 
 Williams College

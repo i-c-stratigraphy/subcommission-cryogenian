@@ -28,7 +28,7 @@ Institute of Geosciences, Johannes-Gutenberg University, Mainz, Germany
 
 <a href="https://www.durham.ac.uk/staff/heda-agic/"><img src="images/HedaAgic.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Heda Agić**   
-Durham University, UK 
+Durham University, UK   
 <heda.agic@durham.ac.uk>  
 
 <a href="https://e4-dtp.ed.ac.uk/people/dtp-alumni/fred-bowyer"><img src="images/Fred.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  

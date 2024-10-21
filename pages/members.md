@@ -32,13 +32,11 @@ Durham University
 United Kingdom  
 <heda.agic@durham.ac.uk>  
 
-<a href="person-caxito"><img src="images/person-caxito.png" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Fabricio Caxito​**  
-Federal University of Minas Gerais  
-​Brazil  
-<facaxito@yahoo.com.br>  
-
-
+<a href="Fred"><img src="images/Fred.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Fred T. Bowyer​**  
+University of Leeds  
+United Kingdom
+<fred.bowyer@ed.ac.uk>  
 
 <a href="person-caxito"><img src="images/person-caxito.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Fabricio Caxito​**  

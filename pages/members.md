@@ -48,7 +48,7 @@ Federal University of Minas Gerais
 Wachenheim Science Center, Williams College, USA    
 <pac3@williams.edu>  
 
-<a href="Person-Hood"><img src="images/Person-Hood.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://findanexpert.unimelb.edu.au/profile/179414-ashleigh-hood"><img src="images/Person-Hood.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ashleigh v. S. Hood**  
 University of Melbourne  
 Australia  

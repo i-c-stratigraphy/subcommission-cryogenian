@@ -47,7 +47,7 @@ Federal University of Minas Gerais
 <a href="Phoebe-Cohen"><img src="images/Phoebe-Cohen.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Phoebe A. Cohen**  
 Wachenheim Science Center, Williams College  
-United States  
+USA 
 <pac3@williams.edu>  
 
 <a href="Person-Hood"><img src="images/Person-Hood.png" style="width:100px; float:left; margin-right:20px;" /></a>  

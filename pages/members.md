@@ -20,8 +20,8 @@ Department of Geology, Utah State University, USA
 
 <a href="person-zhou2"><img src="images/person-zhou2.jpg" style="width:100px;" /></a>  
 Secretary: **Ying Zhou**  
-Department of Earth Science, University College London, UK  
-<y-zhou@ucl.ac.uk>  
+Institute of Geosciences, Johannes-Gutenberg University, Mainz, Germany  
+<y.zhou@uni-mainz.de>  
 
 ## Voting members
 ### _in alphabetical order_

@@ -83,7 +83,7 @@ Australia
 <jarred.lloyd@adelaide.edu.au>  
 
 <div style="clear:both;"></div>  
-<a href="https://www.researchgate.net/profile/Konstantin-Nagovitsin"><div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>  
+<div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>  
 **Konstantin Nagovitsin**  
 ​TIPGG, Russian Academy of Sciences  
 Novosibirsk, Russia  
@@ -101,7 +101,7 @@ St Andrews, UK
 <lriedman@ucsb.edu>  
 
 <a href="https://scholar.google.com.vn/citations?user=bPOOYmkAAAAJ&hl=en"><img src="images/Mukund Sharma.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Mukund Sharma Birbal Sahni**  
+**Mukund Sharma**  
 ​Institute of Palaeobotany, Uttar Pradesh, India  
 <sharmamukund1@rediffmail.com>  
 <div style="clear:both;"></div>  

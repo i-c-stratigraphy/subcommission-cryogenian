@@ -50,11 +50,11 @@ Wachenheim Science Center, Williams College
 United States  
 <pac3@williams.edu>  
 
-<a href="person-frimmel"><img src="images/person-frimmel.png" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Hartwig Frimmel**  
-University of Würzburg  
-Germany  
-<hartwig.frimmel@uni-wuerzburg.de>  
+<a href="person-Hood"><img src="images/person-Hood.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Ashleigh v. S. Hood**  
+University of Melbourne  
+Australia  
+<ashleigh.hood@unimelb.edu.au>  
 
 <div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>
 **Karl-Heinz Hoffmann**  

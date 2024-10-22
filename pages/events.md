@@ -14,8 +14,10 @@ permalink: /events
 ## Upcoming Events 
 ### Subcommission fieldtrips ***2025***
 Two fieldtrips to visit Cryogenian sections have been planned for 2025 and the organisation for both has started.
-South China (June)
-North Namibia (September)
+**South China (June)**  
+This fieldtrip will be combined with the 5th International Conference of Geobiology, 10th -13th June. Details are to follow...  
+
+**North Namibia (September)**
 Dates and more detailed plan will be updated soon....
 
 ---
@@ -24,12 +26,14 @@ After three years of COVID19, the subcommission has organised or coorganised mul
 ### MagellanPlus Workshop and fieldtrip 2024 ***14th-20th July, 2024***
 <img src="images/IMG_7071_Jez_Eliasphoto.jpg" style="width:400px;" /><br />
 <img src="images/IMG_7076_group photo.jpg" style="width:400px;" /><br />
-The subcommission has supported and been involved in the MagellanPlus Workshop and fieldtrip organised by previous submission chair Graham Shields and current correponding member Elias Rugen. During the two days workshop, researchers, many are current and previous members of the subcommission, gave talks on Cryogenian sections around the world.  The criteria of basal Cryogenian were also discussed. After the workshop in London, 12 researchers went on a 3-day fieldtrip to the Scotland, visiting the Tonian-Cryogenian transitional section on the Garbh Eileach, led by Graham, Elias and Tony Spencer.
+The subcommission has supported and been involved in the MagellanPlus Workshop and fieldtrip organised by previous submission chair Graham Shields and current correponding member Elias Rugen. During the two days workshop, researchers, many are current and previous members of the subcommission, gave talks on Cryogenian sections around the world.  The criteria of basal Cryogenian were also discussed. After the workshop in London, 12 researchers went on a 3-day fieldtrip to the Scotland, visiting the Tonian-Cryogenian transitional section on the Garbh Eileach, led by Graham, Elias and Tony Spencer.  
 <img src="images/IMG_7123_Holy Isle Field group.jpg" style="width:400px;" /><br />
 
 ### 2023
-
-
+### Joint Ediacaran-Cryogenian Subcommissions fieldtrip to Brazil ***20th-26th November, 2023***
+<img src="images/Brazil2023-01.jpg" style="width:400px;" /><br />
+Field excursion to Central Brazil sponsored jointly with Ediacaran subcommission (November 20-26): led by Lucas Warren and Fabricio Caxito, 5 voting members and 3 corresponding members of the Cryogenian subcommission joined. Visits to outcrops of possible Cryogenian/Ediacaran transition of the Bambui Group and discussions among members of two subcommission.  
+<img src="images/Brazil2023-02.jpg" style="width:400px;" /><br />
 
 ### Subcommission Scotland fieldtrip ***14th-17th July, 2023***
 

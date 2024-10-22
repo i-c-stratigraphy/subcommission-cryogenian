@@ -31,7 +31,7 @@ b. Site permanence for marker section and point.
 
 ---
 
-## basal Cryogenian GSSP candidates 
+## Basal Cryogenian GSSP candidates 
 
 ### Port Askaig Formation, Scotland Cryogenian record
 #### Key papers:

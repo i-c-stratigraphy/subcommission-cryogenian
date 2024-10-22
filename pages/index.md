@@ -37,10 +37,10 @@ The Subcommission is organized by an Executive consisting of Chair, Vice-Chair a
     <img src="images/person-zhou2.jpg" alt="" />
     <h4>Secretary: Ying Zhou</h4>
     <p>
-        Department of Earth Sciences<br />
-        University College London<br />
-        Gower Place, London, WC1E 6BT, UK<br />
-        E-mail: <a href="mailto:y-zhou@ucl.ac.uk">y-zhou@ucl.ac.uk</a>  
+        Institute of Geosciences<br />
+        Johannes Gutenberg University Mainz <br />
+       J.-J. -Becher-Weg 21, Mainz, Germany<br />
+        E-mail: <a href="mailto:y.zhou@uni-mainz.de">y.zhou@uni-mainz.de</a>  
     </p>
 </div>
 <div style="clear:both;"></div>

@@ -13,12 +13,13 @@ permalink: /events
 
 ## Upcoming Events 
 ### Subcommission fieldtrips ***2025***
-Two fieldtrips to visit Cryogenian sections have been planned for 2025 and the organisation for both has started.
+Two fieldtrips to visit Cryogenian sections have been planned for 2025 and the organisation for both has started.  
+
 **South China (June)**  
 This fieldtrip will be combined with the 5th International Conference of Geobiology, 10th -13th June. Details are to follow...  
 
-**North Namibia (September)**
-Dates and more detailed plan will be updated soon....
+**North Namibia (September)**  
+Dates and more detailed plan will be updated soon....  
 
 ---
 After three years of COVID19, the subcommission has organised or coorganised multiple events, including sessions in conferences, workshops and fieldtrips. 

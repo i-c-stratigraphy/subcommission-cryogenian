@@ -6,7 +6,7 @@ permalink: /
 
 The Subcommission is the primary body for facilitation of international communication and scientific cooperation in Cryogenian stratigraphy directed at better understanding Earth system evolution during the Cryogenian Period (c.720 – c.635 Ma). Its priority is the unambiguous definition, by means of global stratotype section and points (GSSP), of a hierarchy of chronostratigraphic units that provide the framework for correlation of Cryogenian strata.
 
-The Subcommission is organized by an Executive consisting of Chair, Vice-Chair and Secretary, who are all Voting Members of the Subcommission. These officers were appointed by ICS in 2024. There are currently 20 other Voting Members, making a total of 23 [voting members](/members).
+The Subcommission is organized by an Executive consisting of Chair, Vice-Chair and Secretary, who are all Voting Members of the Subcommission. These officers were appointed by ICS in 2020.  August, 2024, we are welcoming the 20 new Voting Members, making a total of 23 [voting members](/members). We give our warm thanks to the previous 18 voting members. 
 
 ## Officers
 <div class="person">

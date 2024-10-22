@@ -11,12 +11,19 @@ permalink: /events
 * [Meetings & Fieldtrips](#meetings-and-fieldtrips)
 * [Webinar Series](#webinar-series)
 
-## Upcoming Events
-After three years of COVID19, the subcommission has organised or coorganised multiple events, including sessions in conferences, workshops and fieldtrips. 
+## Upcoming Events 
+### Subcommission fieldtrips ***2025***
+Two fieldtrips to visit Cryogenian sections have been planned for 2025 and the organisation for both has started.
+South China (June)
+North Namibia (September)
+Dates and more detailed plan will be updated soon....
 
 ---
-### MagellanPlus Workshop 2024 ***14th-16th July, 2024***
+After three years of COVID19, the subcommission has organised or coorganised multiple events, including sessions in conferences, workshops and fieldtrips. 
 
+### MagellanPlus Workshop and fieldtrip 2024 ***14th-20th July, 2024***
+<img src="images/banniere_strati2023_lille.jpg" style="width:400px;" /><br />
+The subcommission has supported and been involved in the MagellanPlus Workshop and fieldtrip organised by previous submission chair Graham Shields and current correponding member Elias Rugen. During the two days workshop, researchers, many are current and previous members of the subcommission, gave talks on Cryogenian sections around the world.  The criteria of basal Cryogenian were also discussed. After the workshop in London, 12 researchers went on a 3-day fieldtrip to the Scotland, visiting the Tonian-Cryogenian transitional section on the Garbh Eileach, led by Graham, Elias and Tony Spencer.
 
 
 ### Strati 2023 ***11th-13th July, 2023***

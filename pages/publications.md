@@ -7,6 +7,8 @@ permalink: /publications
 The Subcommission is the primary body for facilitation of international communication and scientific cooperation in Cryogenian stratigraphy directed at better understanding Earth system evolution during the Cryogenian Period (c.720 – c.635 Ma). Its priority is the unambiguous definition, by means of global stratotype section and points (GSSP), of a hierarchy of chronostratigraphic units that provide the framework for correlation of Cryogenian strata.
 
 ## Compiled publications by voting members
+Rugen, E.J., Pastore, G., Vermeesch, P., Spencer, A.M., Webster, D., Smith, A.G., Carter, A. and Shields, G.A., 2024. Glacially influenced provenance and Sturtian affinity revealed by detrital zircon U–Pb ages from sandstones in the Port Askaig Formation, Dalradian Supergroup. *Journal of the Geological Society*, 181(5), pp.jgs2024-029.
+
 Yuan, L., Zhou, Y., Chen, X., Zhu, M., Poulton, S. W., Tian, Z., . . . Shields, G. A. (2023). Multiple ocean oxygenation events during the Ediacaran Period: Mo isotope evidence from the Nanhua Basin, South China. Precambrian Research, 388, 107004. doi:10.1016/j.precamres.2023.107004
 
 Halverson, G.P., Porter, S.M. Shields, G.A. (2020) The Tonian and Cryogenian periods. In F. M. Gradstein (Ed.) et al., The Geologic Time Scale 2020. Elsevier Science Limited. pp. 495-519.

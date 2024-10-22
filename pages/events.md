@@ -22,20 +22,14 @@ Dates and more detailed plan will be updated soon....
 After three years of COVID19, the subcommission has organised or coorganised multiple events, including sessions in conferences, workshops and fieldtrips. 
 
 ### MagellanPlus Workshop and fieldtrip 2024 ***14th-20th July, 2024***
-<img src="images/banniere_strati2023_lille.jpg" style="width:400px;" /><br />
+<img src="images/IMG_7071_Jez_Eliasphoto.jpg" style="width:400px;" /><br />
+<img src="images/IMG_7076_group photo.jpg" style="width:400px;" /><br />
 The subcommission has supported and been involved in the MagellanPlus Workshop and fieldtrip organised by previous submission chair Graham Shields and current correponding member Elias Rugen. During the two days workshop, researchers, many are current and previous members of the subcommission, gave talks on Cryogenian sections around the world.  The criteria of basal Cryogenian were also discussed. After the workshop in London, 12 researchers went on a 3-day fieldtrip to the Scotland, visiting the Tonian-Cryogenian transitional section on the Garbh Eileach, led by Graham, Elias and Tony Spencer.
+<img src="images/IMG_7123_Holy Isle Field group.jpg" style="width:400px;" /><br />
+
+### 2023
 
 
-### Strati 2023 ***11th-13th July, 2023***
-
-<img src="images/banniere_strati2023_lille.jpg" style="width:400px;" /><br />
-
-Our subcommission has a session: **SC16-Tonian to Cryogenian stratigraphy, palaeobiology and Earth system change**
-There will be 10 talks in the session and we plan to have evening discussions and possibly a meeting. Hope to see you in the beautiful Lille.
-
-<img src="images/Lille.jpg" style="width:400px;" />  
-
----
 
 ### Subcommission Scotland fieldtrip ***14th-17th July, 2023***
 
@@ -45,6 +39,19 @@ Directly after Strati 2023, some of us will travel to Scotland. A short fieldtri
 The 12 people team will stay in Oban and travel to the island with boat.
 
 <img src="images/Oban.jpg" style="width:400px;" />  
+
+
+### Strati 2023 ***11th-13th July, 2023***
+
+<img src="images/banniere_strati2023_lille.jpg" style="width:400px;" /><br />
+
+The subcommission had a session: **SC16-Tonian to Cryogenian stratigraphy, palaeobiology and Earth system change**
+In total, ten talks were given in the session and a subcommission meeting was held during Strati.
+
+<img src="images/Lille.jpg" style="width:400px;" />  
+
+---
+
 
 ---
 

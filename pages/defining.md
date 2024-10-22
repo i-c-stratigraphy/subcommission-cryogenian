@@ -14,18 +14,18 @@ Recent years, as the study on different Cryogenian successions globally develope
 The subcommission has started to work on the criteria to define the GSSP for basal Cryogenian type section since 2009. During last term (2020 - 2024), a new draft criteria was put together by 5 working groups. Combined with rules for GSSP of the ICS, the draft was discussed during the MagellanPlus Workshop, July 2024. In total, following three main aspects have been preliminarily decided.
 
 #### 1. Geological control:  
-a. Good exposure over an adequate thickness with indicative marker beds  
-b. continuous gradational transition through GSSP level and into glaciation in a relatively expanded, marine succession  
-c. minimal synsedimentary and tectonic disturbance and minimal post-depositional alteration of stratigraphic markers  
+a. Good exposure over an adequate thickness with indicative marker beds;  
+b. continuous gradational transition through GSSP level and into glaciation in a relatively expanded, marine succession;  
+c. minimal synsedimentary and tectonic disturbance and minimal post-depositional alteration of stratigraphic markers.  
  
 #### 2. Chronostratigraphic control  
-a. high precision geochronological constraints  
-b. proven potential for high precision chemostratigraphic correlation and / or  
+a. high precision geochronological constraints;  
+b. proven potential for high precision chemostratigraphic correlation and / or;  
 c. proven potential for other means of global stratigraphic correlation, such as biostratigraphically useful fossils.  
  
 #### 3. Accessibility, Impact and Outreach  
-a. Relatively easy to all, including permits for rock collection to researchers, outreach and education potential (at minimal cost)  
-b. Site permanence for marker section and point  
+a. Relatively easy to all, including permits for rock collection to researchers, outreach and education potential (at minimal cost);  
+b. Site permanence for marker section and point.  
 
 ---
 

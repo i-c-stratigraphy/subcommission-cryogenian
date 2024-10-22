@@ -10,6 +10,8 @@ The Subcommission is the primary body for facilitation of international communic
 
 Recent years, as the study on different Cryogenian successions globally developed and cumulates, we can start to name several potential Cryogenian base candidates (GSSP). Below are all the relevant publications for each of the candidate.
 
+---
+
 ### Criteria for Cryogenian base section and point
 The subcommission has started to work on the criteria to define the GSSP for basal Cryogenian type section since 2009. During last term (2020 - 2024), a new draft criteria was put together by 5 working groups. Combined with rules for GSSP of the ICS, the draft was discussed during the MagellanPlus Workshop, July 2024. In total, following three main aspects have been preliminarily decided.
 

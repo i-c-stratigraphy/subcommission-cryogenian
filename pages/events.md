@@ -24,6 +24,7 @@ Dates and more detailed plan will be updated soon....
 ---
 After three years of COVID19, the subcommission has organised or coorganised multiple events, including sessions in conferences, workshops and fieldtrips. 
 
+### 2024
 ### MagellanPlus Workshop and fieldtrip 2024 ***14th-20th July, 2024***
 <img src="images/IMG_7071_Jez_Eliasphoto.jpeg" style="width:400px;" /><br />
 <img src="images/IMG_7076_group photo.jpeg" style="width:400px;" /><br />

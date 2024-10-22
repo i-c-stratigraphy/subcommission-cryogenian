@@ -10,9 +10,29 @@ The Subcommission is the primary body for facilitation of international communic
 
 Recent years, as the study on different Cryogenian successions globally developed and cumulates, we can start to name several potential Cryogenian base candidates (GSSP). Below are all the relevant publications for each of the candidate.
 
-### Port Askaig Formation, Scotland Cryogenian record
+### Criteria for Cryogenian base section and point
+The subcommission has started to work on the criteria to define the GSSP for basal Cryogenian type section since 2009. During last term (2020 - 2024), a new draft criteria was put together by 5 working groups. Combined with rules for GSSP of the ICS, the draft was discussed during the MagellanPlus Workshop, July 2024. In total, following three main aspects have been preliminarily decided.
 
+#### 1. Geological control:
+a. Good exposure over an adequate thickness with indicative marker beds
+b. continuous gradational transition through GSSP level and into glaciation in a relatively expanded, marine succession
+c. minimal synsedimentary and tectonic disturbance and minimal post-depositional alteration of stratigraphic markers
+ 
+#### 2. Chronostratigraphic control
+a. high precision geochronological constraints
+b. proven potential for high precision chemostratigraphic correlation and / or
+c. proven potential for other means of global stratigraphic correlation, such as biostratigraphically useful fossils.
+ 
+#### 3. Accessibility, Impact and Outreach
+a. Relatively easy to all, including permits for rock collection to researchers, outreach and education potential (at minimal cost)
+b. Site permanence for marker section and point
+
+
+## basal Cryogenian GSSP candidates 
+
+### Port Askaig Formation, Scotland Cryogenian record
 #### Key papers:
+Rugen, E.J., Pastore, G., Vermeesch, P., Spencer, A.M., Webster, D., Smith, A.G., Carter, A. and Shields, G.A., 2024. Glacially influenced provenance and Sturtian affinity revealed by detrital zircon U–Pb ages from sandstones in the Port Askaig Formation, Dalradian Supergroup. *Journal of the Geological Society*, 181(5), pp.jgs2024-029.
 
 ​Arnaud, E. & Fairchild, I.J. 2011 The Port Askaig Formation, Dalradian Supergroup, Scotland In: Arnaud, E., Halverson, G. P. & Shields-Zhou, G. (eds) The Geological Record of Neoproterozoic glaciations. *Geological Society of London, Memoir*, 36, 635-642.
 

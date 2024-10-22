@@ -27,7 +27,7 @@ After three years of COVID19, the subcommission has organised or coorganised mul
 ### MagellanPlus Workshop and fieldtrip 2024 ***14th-20th July, 2024***
 <img src="images/IMG_7071_Jez_Eliasphoto.jpeg" style="width:400px;" /><br />
 <img src="images/IMG_7076_group photo.jpeg" style="width:400px;" /><br />
-The subcommission has supported and been involved in the MagellanPlus Workshop and fieldtrip organised by previous submission chair Graham Shields and current correponding member Elias Rugen. During the two days workshop, researchers, many are current and previous members of the subcommission, gave talks on Cryogenian sections around the world.  The criteria of basal Cryogenian were also discussed. After the workshop in London, 12 researchers went on a 3-day fieldtrip to the Scotland, visiting the Tonian-Cryogenian transitional section on the Garbh Eileach, led by Graham, Elias and Tony Spencer.  
+The subcommission has supported and been involved in the MagellanPlus Workshop and fieldtrip organised by previous submission chair Graham Shields and current correponding member Elias Rugen. During the two days workshop, researchers, many are current and previous members of the subcommission, gave talks on Cryogenian sections around the world.  The criteria of basal Cryogenian were also discussed. After the workshop in London, 12 researchers went on a 3-day fieldtrip to the Scotland, visiting the Tonian-Cryogenian transitional section on the Garbh Eileach, led by Graham, Elias and David Webster.  
 <img src="images/IMG_7123_Holy Isle Field group.jpeg" style="width:400px;" /><br />
 
 ### 2023

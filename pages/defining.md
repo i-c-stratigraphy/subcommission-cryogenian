@@ -31,7 +31,7 @@ b. Site permanence for marker section and point.
 
 ---
 
-## Basal Cryogenian GSSP candidates 
+## Base Cryogenian GSSP candidates 
 
 ### Port Askaig Formation, Scotland Cryogenian record
 #### Key papers:
@@ -44,6 +44,8 @@ Ali, D.O., Spencer, A.M., Fairchild, I.J., Chew, K.J., Anderton, R., Levell, B.K
 Fairchild, I.J., Spencer, A.M., Ali, D.O., Anderson, R.P., Anderton, R., Boomer, I., Dove, D., Evans, J.D., Hambrey, M.J., Howe, J., Sawaki, Y., Wang, Z., Shields, G., Skelton, A. Tucker, M.E. and Zhou, Y. 2018 Tonian-Cryogenian boundary sections of Argyll, Scotland. *Precambrian Research*, 319, 37-64.
 
 Spencer, A.M. 1971, Later Pre-cambrian Glaciation in Scotland. *Memoir of the Geological Society of London*, 5.
+
+---
 
 ## The world of the pre-Cryogenian 
 

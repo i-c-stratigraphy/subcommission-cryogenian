@@ -41,7 +41,7 @@ United Kingdom
 **Fabricio Caxito​**  
 Federal University of Minas Gerais  
 ​Brazil  
-<facaxito@yahoo.com.br>  
+<facaxito@gmail.com>  
 
 <a href="https://sites.williams.edu/pac3/"><img src="images/Phoebe-Cohen.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Phoebe A. Cohen**  

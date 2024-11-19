@@ -124,7 +124,7 @@ Russian Academy of Sciences,Russia
 **Nicholas L. Swanson-Hysell**  
 Associate Professor, Dept of Earth & Environmental Sciences  
 Associate Director, Institute for Rock Magnetism  
-University of Minnesota   
+University of Minnesota, USA   
 <nicks-h@umn.edu>  
 
 <a href="https://www.researchgate.net/profile/Ricardo-Trindade"><img src="images/person-Trindade.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  

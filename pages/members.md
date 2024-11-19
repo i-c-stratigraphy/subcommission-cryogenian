@@ -98,7 +98,8 @@ St Andrews, UK
 
 <a href="https://www.geol.ucsb.edu/people/researchers/leigh-anne-riedman"><img src="images/person-riedman.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Leigh Anne Riedman**  
-​University of California, Santa Barbara, USA  
+​University of California,  
+Santa Barbara, USA  
 <lriedman@ucsb.edu>  
 
 <div style="clear:both;"></div>  

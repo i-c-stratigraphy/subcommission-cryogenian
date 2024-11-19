@@ -48,6 +48,12 @@ Federal University of Minas Gerais
 Wachenheim Science Center, Williams College, USA    
 <pac3@williams.edu>  
 
+<a href="http://www.ipgg.sbras.ru/en/institute/staff/grazhdankindv"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Dmitriy Grazhdankin**  
+Trofimuk Institute of Petroleum Geology and Geophysics  
+ Siberian Branch of the Russian Academy of Sciences, Russia  
+<GrazhdankinDV@ipgg.sbras.ru>  
+
 <a href="https://findanexpert.unimelb.edu.au/profile/179414-ashleigh-hood"><img src="images/Person-Hood.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ashleigh v. S. Hood**  
 University of Melbourne  
@@ -59,12 +65,6 @@ Australia
 Senckenberg Naturhistorische Sammlungen Dresden  
 Germany  
 <mandy.hofmann@senckenberg.de>  
-
-<a href="http://www.ipgg.sbras.ru/en/institute/staff/grazhdankindv"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Dmitriy Grazhdankin**  
-Trofimuk Institute of Petroleum Geology and Geophysics  
- Siberian Branch of the Russian Academy of Sciences, Russia  
-<GrazhdankinDV@ipgg.sbras.ru>  
 
 <a href="https://www.utm.utoronto.ca/cps/people/marc-laflamme"><img src="images/person-laflamme.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Marc Laflamme**  

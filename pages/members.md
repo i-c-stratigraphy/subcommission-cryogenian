@@ -125,7 +125,6 @@ Russian Academy of Sciences,Russia
 Associate Professor, Dept of Earth & Environmental Sciences  
 Associate Director, Institute for Rock Magnetism  
 University of Minnesota  
-
 <nicks-h@umn.edu>  
 
 <a href="https://www.researchgate.net/profile/Ricardo-Trindade"><img src="images/person-Trindade.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  

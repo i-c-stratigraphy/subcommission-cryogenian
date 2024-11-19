@@ -104,7 +104,8 @@ St Andrews, UK
 <div style="clear:both;"></div>  
 <a href="https://scholar.google.com.vn/citations?user=bPOOYmkAAAAJ&hl=en"><img src="images/Mukund Sharma.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Mukund Sharma**  
-​Institute of Palaeobotany, Uttar Pradesh, India  
+​Institute of Palaeobotany,  
+Uttar Pradesh, India  
 <sharmamukund1@rediffmail.com>  
 <div style="clear:both;"></div>  
  
@@ -125,8 +126,9 @@ Russian Academy of Sciences,Russia
 **Nicholas L. Swanson-Hysell**  
 Associate Professor, Dept of Earth & Environmental Sciences  
 Associate Director, Institute for Rock Magnetism  
-University of Minnesota, USA   
-<nicks-h@umn.edu>   
+University of Minnesota, USA  
+<nicks-h@umn.edu>  
+<div style="clear:both;"></div>  
 
 <a href="https://www.researchgate.net/profile/Ricardo-Trindade"><img src="images/person-Trindade.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ricardo I.F. Trindade**  
@@ -136,9 +138,9 @@ School of Earth Sciences
 
 <a href="https://scholar.google.com/citations?user=fNVS3HUAAAAJ"><img src="images/Chuan Yang.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Chuan Yang**  
-Nanjing Institute of Geology and Palaeontology,   
+Nanjing Institute of Geology and Palaeontology,  
 Chinese Academy of Sciences, China  
-<cyang@nigpas.ac.cn>   
+<cyang@nigpas.ac.cn>  
 
 <a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Shihong Zhang**  

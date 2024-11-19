@@ -122,9 +122,11 @@ Russian Academy of Sciences,Russia
 
 <a href="https://vcresearch.berkeley.edu/faculty/nicholas-swanson-hysell"><img src="images/person-swanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Nicholas L. Swanson-Hysell**  
-Earth and Planetary Science Department  
-University of California, USA  
-<swanson-hysell@berkeley.edu>  
+Associate Professor, Dept of Earth & Environmental Sciences
+Associate Director, Institute for Rock Magnetism
+University of Minnesota
+
+<nicks-h@umn.edu>  
 
 <a href="https://www.researchgate.net/profile/Ricardo-Trindade"><img src="images/person-Trindade.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ricardo I.F. Trindade**  

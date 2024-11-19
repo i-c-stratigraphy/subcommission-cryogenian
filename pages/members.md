@@ -127,7 +127,7 @@ Russian Academy of Sciences,Russia
 Associate Professor, Dept of Earth & Environmental Sciences  
 Associate Director, Institute for Rock Magnetism  
 University of Minnesota, USA  
-<nicks-h@umn.edu>  
+  <nicks-h@umn.edu>  
 <div style="clear:both;"></div>  
 
 <a href="https://www.researchgate.net/profile/Ricardo-Trindade"><img src="images/person-Trindade.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
@@ -140,7 +140,7 @@ School of Earth Sciences
 **Chuan Yang**  
 Nanjing Institute of Geology and Palaeontology,  
 Chinese Academy of Sciences, China  
-<cyang@nigpas.ac.cn>  
+  <cyang@nigpas.ac.cn>  
 
 <a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Shihong Zhang**  

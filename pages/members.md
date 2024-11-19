@@ -125,22 +125,24 @@ Russian Academy of Sciences,Russia
 Associate Professor, Dept of Earth & Environmental Sciences  
 Associate Director, Institute for Rock Magnetism  
 University of Minnesota, USA   
-<nicks-h@umn.edu>  
+<nicks-h@umn.edu>   
 
 <a href="https://www.researchgate.net/profile/Ricardo-Trindade"><img src="images/person-Trindade.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ricardo I.F. Trindade**  
 School of Earth Sciences  
 ​University of Sao Paulo (USP), Brazil  
-<ricardo.trindade@iag.usp.br> ​ 
+<ricardo.trindade@iag.usp.br> ​  
 
 <a href="https://scholar.google.com/citations?user=fNVS3HUAAAAJ"><img src="images/Chuan Yang.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Chuan Yang**  
-Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, China  
-<cyang@nigpas.ac.cn>  
+Nanjing Institute of Geology and Palaeontology,   
+Chinese Academy of Sciences, China  
+<cyang@nigpas.ac.cn>   
 
 <a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Shihong Zhang**  
-State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences Beijing, China  
-<shzhang@cugb.edu.cn>  
+State Key Laboratory of Biogeology and Environmental Geology,  
+China University of Geosciences Beijing, China  
+<shzhang@cugb.edu.cn>   
 
 ​

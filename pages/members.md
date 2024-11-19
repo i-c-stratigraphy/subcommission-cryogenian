@@ -45,8 +45,9 @@ Federal University of Minas Gerais
 
 <a href="https://sites.williams.edu/pac3/"><img src="images/Phoebe-Cohen.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Phoebe A. Cohen**  
-Wachenheim Science Center, Williams College, USA    
-<pac3@williams.edu>  
+Wachenheim Science Center,   
+Williams College, USA    
+<pac3@williams.edu>   
 
 <a href="http://www.ipgg.sbras.ru/en/institute/staff/grazhdankindv"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Dmitriy Grazhdankin**  

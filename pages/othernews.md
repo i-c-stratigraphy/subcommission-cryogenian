@@ -5,7 +5,7 @@ permalink: /othernews
 ---
 
 # 2024
-###Eulogy for Prof. Shihong Zhang  
+### Eulogy for Prof. Shihong Zhang
 **Voting member for 2020-2024**  
 <img src="images/person-zhang.png" style="width:200px; float:left; margin-right:20px;"/>
 

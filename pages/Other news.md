@@ -1,8 +1,11 @@
 ---
 layout: page
 title: "Members related news"
-permalink: /person-zhang
+permalink: /Other news
 ---
+
+
+# Other news
 
 <img src="images/person-zhang.png" style="width:200px; float:left; margin-right:20px;"/>
 **Eulogy for Prof. Shihong Zhang**  

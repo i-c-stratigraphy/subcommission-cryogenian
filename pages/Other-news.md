@@ -21,4 +21,4 @@ It has been three days since we heard the sad news. Being colleagues and friends
 
 
 <div style="clear:both"></div>
-<img src="images/Shihong-Zhang.png" style="width:600px; float:left; margin-right:20px;"/>
+<img src="images/SH-Zhang.png" style="width:600px; float:left; margin-right:20px;"/>

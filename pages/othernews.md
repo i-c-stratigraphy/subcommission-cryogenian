@@ -3,8 +3,9 @@ layout: page
 title: "Other news"
 permalink: /othernews
 ---
+# Other News
 
-# 2024
+## 2024
 ### Eulogy for Prof. Shihong Zhang
 **Voting member for 2020-2024**  
 <img src="images/person-zhang.png" style="width:200px; float:left; margin-right:20px;"/>
@@ -16,5 +17,6 @@ During our joint fieldtrips, subcommission members and I have gradually got to k
 
 Being colleagues and friends, we of the Cryogenian Subcommission are all very sad as Shihong’s life was cut short at the age of 60, and the world has been left with a huge void. Here, we send our condolences to his family. We shall remember how Shihong really made a difference to this science community, as a great scientist driven by his curiosity, dedication, enthusiasm and earnestness, and as a kind, fun-loving, joyful and friendly person. 
 
-<img src="images/SH-Zhang.png" style="width:400px;" />  
+<img src="images/SH-Zhang.png" style="width:500px;" />  
 
+---

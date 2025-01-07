@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Members related news"
-permalink: /Other news
+permalink: /othernews
 ---
 
 # Other news

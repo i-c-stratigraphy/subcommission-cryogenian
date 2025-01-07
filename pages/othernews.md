@@ -7,7 +7,7 @@ permalink: /Other news
 # Other news
 
 
-***Eulogy for Prof. Shihong Zhang**  
+###Eulogy for Prof. Shihong Zhang**  
 **State Key Laboratory of Biogeology and Environmental Geology,
 China University of Geosciences Beijing, China**  
 <img src="images/person-zhang.png" style="width:200px; float:left; margin-right:20px;"/>

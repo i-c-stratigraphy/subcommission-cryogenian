@@ -4,14 +4,13 @@ title: "Members related news"
 permalink: /Other news
 ---
 
-
 # Other news
 
-<img src="images/person-zhang.png" style="width:200px; float:left; margin-right:20px;"/>
+
 **Eulogy for Prof. Shihong Zhang**  
 **State Key Laboratory of Biogeology and Environmental Geology,
 China University of Geosciences Beijing, China**  
-
+<img src="images/person-zhang.png" style="width:200px; float:left; margin-right:20px;"/>
 
 On 20th December this year 2024, Professor Shihong Zhang, one of the voting members of the Subcommission on Cryogenian Stratigraphy (International Commission on Stratigraphy) passed away suddenly. Life is truly unpredictable! The sad passing of Shihong is not only a huge loss to his family and his friends, but also to our international geoscience community united by a common passion and interest to find out how Earth evolved.
 

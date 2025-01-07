@@ -16,8 +16,12 @@ permalink: /events
 Two fieldtrips to visit Cryogenian sections have been planned for 2025 and the organisation for both has started.  
 
 **South China (June)**  
-This fieldtrip will be combined with the 5th International Conference of Geobiology, 10th -13th June. Details are to follow...  
-Organisers: Maoyan Zhu, Chuan Yang...
+This fieldtrip, from 1st to 9th June, will be combined with the 5th International Conference of Geobiology (10th -13th June) in Wuhan. Details are to follow...  
+Leader: Maoyan Zhu. Organiser: Chuan Yang
+
+
+
+
 
 **North Namibia (September)**  
 Dates and more detailed plan will be updated soon....  

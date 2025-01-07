@@ -7,11 +7,12 @@ permalink: /events
 # Events
 
 * [Upcoming Events](#upcoming-events)
-* [Conferences](#conferences)
 * [Meetings & Fieldtrips](#meetings-and-fieldtrips)
 * [Webinar Series](#webinar-series)
+* [Conferences](#conferences)
 
 ## Upcoming Events 
+
 ### Fieldtrip to explore Neoproterozoic-Cambrian transitional successions in South China  
 
 ***1st-9th June, 2025***

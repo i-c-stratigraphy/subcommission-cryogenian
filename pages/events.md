@@ -12,23 +12,22 @@ permalink: /events
 * [Webinar Series](#webinar-series)
 
 ## Upcoming Events 
-### Subcommission fieldtrips ***2025***
-Two fieldtrips to visit Cryogenian sections have been planned for 2025 and the organisation for both has started.  
+### Fieldtrip to explore Neoproterozoic-Cambrian transitional successions in South China  
 
-**South China (June)**  
-This fieldtrip, from 1st to 9th June, will be combined with the 5th International Conference of Geobiology (10th -13th June) in Wuhan. Details are to follow...  
+***1st-9th June, 2025***
+This fieldtrip will be combined with the 5th International Conference of Geobiology (10th -13th June) in Wuhan. Details are to follow...  
 Leader: Maoyan Zhu. Organiser: Chuan Yang
+This eight-day, pre-conference fieldtrip will provide an overview of the stratigraphy of Neoproterozoic-Cambrian transition in the South China Block. The stratigraphic units we will examine during this fieldtrip cover successions ranging from the shallow water to deep water faces, including (from oldest to the youngest) the pre-Cryogenian Gongdong, Cryogenian Chang’an, Fulu, Datangpo, and Nantuo formations, Ediacaran Doushantuo and Dengying formations, and the early Cambrian Yanjiahe formations and their equivalents. These units host critical records of Earth-Life System Evolution across the Neoproterozoic and Cambrian transition, including but not limited to the Snowball Earth event, the Neoproterozoic oxygenation event, and the Cambrian explosion. Besides, we will visit the GSSP for the conterminous base of the Miaolingian Series and Wuliuan Stage (Cambrian) at Balang and attend its ribbon-cutting ceremony.
+<img src="images/itinerary.jpg" style="width:400px;" /><br />
+(A) General itinerary of the 2025 fieldtrip in China. (B) Dropstone in the base of Cryogenian at Zhaoxing section. (C) Cap carbonate in the base of Ediacaran at Huajipo section. (D) Eight-armed Ediacara fossil Eoandromeda octobrachiata at Wenghui section. (E) Late Ediacaran trackways in the middle part of Dengying Formation.
 
+---
 
-
-
-
-**North Namibia (September)**  
+### Fieldtrip to North Namibia ***September, 2025***  
 Dates and more detailed plan will be updated soon....  
 Organisers: Fred Bowyer, Mandy Zieger-Hofmann, Ying Zhou...
 
 ---
-After three years of COVID19, the subcommission has organised or coorganised multiple events, including sessions in conferences, workshops and fieldtrips. 
 
 ### 2024
 ### MagellanPlus Workshop and fieldtrip 2024 ***14th-20th July, 2024***

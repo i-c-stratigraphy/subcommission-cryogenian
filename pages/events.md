@@ -7,9 +7,10 @@ permalink: /events
 # Events
 
 * [Upcoming Events](#upcoming-events)
-* [Meetings & Fieldtrips](#meetings-and-fieldtrips)
-* [Webinar Series](#webinar-series)
-* [Conferences](#conferences)
+* [Past events](#past-events)
+** [Meetings & Fieldtrips](#meetings-and-fieldtrips)
+** [Webinar Series](#webinar-series)
+** [Conferences](#conferences)
 
 ## Upcoming Events 
 
@@ -29,6 +30,7 @@ Dates and more detailed plan will be updated soon....
 Organisers: Fred Bowyer, Mandy Zieger-Hofmann, Ying Zhou...
 
 ---
+## Past Events 
 
 ### 2024
 ### MagellanPlus Workshop and fieldtrip 2024 ***14th-20th July, 2024***
@@ -66,7 +68,7 @@ In total, ten talks were given in the session and a subcommission meeting was he
 
 ---
 
-## Webinar Series
+### Webinar Series
 
 Welcome to the Cryogenian webinar series, hosted by the Subcommission on Cryogenian Stratigraphy and organised by Ying Zhou. We aim to invite researchers to present their current research to prompt discussion around the icy middle part of the Neoproterozoic, the time leading to the Cryogenian Period and its aftermath. If you are interested in stratigraphy, geochemistry (organic, inorganic, isotope), palaeobiology of or related to the Cryogenian Period, feel free to join us (please email Ying) or forward to anyone you think may be interested.
 
@@ -130,7 +132,7 @@ These ages also implicate that the Ediacaran stratigraphy of the region is signi
 
 Lastly, although the base of the Pocatello Formation is not exposed, it may provide a good auxiliary reference section for the chosen GSSP for the basal Cryogenian or the existing Ediacaran GSSP, especially because the key sections of the Pocatello Fm are accessible along the Interstate 15 corridor and the Sturtian, interglacial, Marinoan, and basal Ediacaran strata can be easily viewed.
 
-## Conferences
+### Conferences
 ### Cryogenian glaciation: the extraordinary Port Askaig record
 26th -27th May, 2021. Virtual conference via Zoom  
 
@@ -178,7 +180,7 @@ Meanwhile, the improved global geochronological and chemostratigraphic framework
 
 The team hope to stimulate feedback and suggestions for future research activity, both by discussion after groups of talks and on-line via Mentimeter. This meeting represents an important step in the preparation of a new Geological Society of London Memoir on the Port Askaig glaciation.
 
-## Meetings and Fieldtrips
+### Meetings and Fieldtrips
 ### Subcommission business meeting
 28th May, 2021  
 5th December, 2020. 14:00 GMT

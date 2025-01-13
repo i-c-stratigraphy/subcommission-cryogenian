@@ -8,9 +8,9 @@ permalink: /events
 
 * [Upcoming Events](#upcoming-events)
 * [Past events](#past-events)
-** [Webinar Series](#webinar-series)
-** [Conferences](#conferences)
-** [Meetings & Fieldtrips](#meetings-and-fieldtrips)
+  * [Webinar Series](#webinar-series)
+  * [Conferences](#conferences)
+  * [Meetings & Fieldtrips](#meetings-and-fieldtrips)
 
 ## Upcoming Events 
 

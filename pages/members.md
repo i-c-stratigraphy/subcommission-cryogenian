@@ -139,7 +139,7 @@ State Key Laboratory of Biogeology and Environmental Geology,
 China University of Geosciences Beijing, China  
 <shzhang@cugb.edu.cn>   
 
-**suspended voting members**
+##suspended voting members, following IUGS's guidelines
 ​<a href="http://www.ipgg.sbras.ru/en/institute/staff/grazhdankindv"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Dmitriy Grazhdankin**  
 Trofimuk Institute of Petroleum Geology and Geophysics  

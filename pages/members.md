@@ -134,7 +134,7 @@ Chinese Academy of Sciences, China
 <div style="clear:both;"></div>  
 
 
-##suspended voting members, following IUGS's guidelines
+## temporarily suspended voting members, following IUGS's guidelines
 ​<a href="http://www.ipgg.sbras.ru/en/institute/staff/grazhdankindv"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Dmitriy Grazhdankin**  
 Trofimuk Institute of Petroleum Geology and Geophysics  

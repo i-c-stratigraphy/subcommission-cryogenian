@@ -49,12 +49,6 @@ Wachenheim Science Center,
 Williams College, USA    
 <pac3@williams.edu>   
 
-<a href="http://www.ipgg.sbras.ru/en/institute/staff/grazhdankindv"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Dmitriy Grazhdankin**  
-Trofimuk Institute of Petroleum Geology and Geophysics  
- Siberian Branch of the Russian Academy of Sciences, Russia  
-<GrazhdankinDV@ipgg.sbras.ru>  
-
 <a href="https://findanexpert.unimelb.edu.au/profile/179414-ashleigh-hood"><img src="images/Person-Hood.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ashleigh v. S. Hood**  
 University of Melbourne  
@@ -82,13 +76,6 @@ Germany
 University of Adelaide  
 Australia  
 <jarred.lloyd@adelaide.edu.au>  
-
-<div style="clear:both;"></div>  
-<div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>  
-**Konstantin Nagovitsin**  
-​TIPGG, Russian Academy of Sciences  
-Novosibirsk, Russia  
-<nagovicinKE@ipgg.sbras.ru>  
 
  <a href="https://research-portal.st-andrews.ac.uk/en/persons/tony-prave"><img src="images/person-prave.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Tony Prave**  
@@ -152,4 +139,16 @@ State Key Laboratory of Biogeology and Environmental Geology,
 China University of Geosciences Beijing, China  
 <shzhang@cugb.edu.cn>   
 
-​
+**suspended voting members
+​<a href="http://www.ipgg.sbras.ru/en/institute/staff/grazhdankindv"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Dmitriy Grazhdankin**  
+Trofimuk Institute of Petroleum Geology and Geophysics  
+ Siberian Branch of the Russian Academy of Sciences, Russia  
+<GrazhdankinDV@ipgg.sbras.ru>  
+
+<div style="clear:both;"></div>  
+<div style="height:100px; width:100px; display:block; float:left; margin-right:20px;"></div>  
+**Konstantin Nagovitsin**  
+​TIPGG, Russian Academy of Sciences  
+Novosibirsk, Russia  
+<nagovicinKE@ipgg.sbras.ru>  

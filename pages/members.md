@@ -104,13 +104,6 @@ School of Earth and Space Science
 <bingshen@pku.edu.cn>  
 
 <div style="clear:both;"></div>  
-<a href="https://www.researchgate.net/profile/Julia-Shuvalova"><img src="images/Julia-Shuvalova.png" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Julia Shuvalova**  
-Palaeontological Institute  
-Russian Academy of Sciences,Russia  
-<pinmuse@gmail.com>  
-
-<div style="clear:both;"></div>  
 <a href="https://vcresearch.berkeley.edu/faculty/nicholas-swanson-hysell"><img src="images/nswanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Nicholas L. Swanson-Hysell**  
 Associate Professor, Dept of Earth & Environmental Sciences  
@@ -147,6 +140,13 @@ Trofimuk Institute of Petroleum Geology and Geophysics
 ​TIPGG, Russian Academy of Sciences  
 Novosibirsk, Russia  
 <nagovicinKE@ipgg.sbras.ru>  
+
+<div style="clear:both;"></div>  
+<a href="https://www.researchgate.net/profile/Julia-Shuvalova"><img src="images/Julia-Shuvalova.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Julia Shuvalova**  
+Palaeontological Institute  
+Russian Academy of Sciences,Russia  
+<pinmuse@gmail.com>  
 
 #### Sadly voting member Shihong Zhang passed away end of 2024
 <a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  

@@ -133,11 +133,6 @@ Chinese Academy of Sciences, China
 <cyang@nigpas.ac.cn>  
 <div style="clear:both;"></div>  
 
-<a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Shihong Zhang**  
-State Key Laboratory of Biogeology and Environmental Geology,  
-China University of Geosciences Beijing, China  
-<shzhang@cugb.edu.cn>   
 
 ##suspended voting members, following IUGS's guidelines
 ​<a href="http://www.ipgg.sbras.ru/en/institute/staff/grazhdankindv"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
@@ -152,3 +147,10 @@ Trofimuk Institute of Petroleum Geology and Geophysics
 ​TIPGG, Russian Academy of Sciences  
 Novosibirsk, Russia  
 <nagovicinKE@ipgg.sbras.ru>  
+
+## sadly voting member Shihong Zhang passed away end of 2024
+<a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Shihong Zhang**  
+State Key Laboratory of Biogeology and Environmental Geology,  
+China University of Geosciences Beijing, China  
+<shzhang@cugb.edu.cn>   

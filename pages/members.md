@@ -155,11 +155,13 @@ Russian Academy of Sciences,Russia
 University College London, UK
 <g.shields@ucl.ac.uk>  
 
+<div style="clear:both;"></div>  
 ​<a href="https://www.mcgill.ca/eps/galen-pippa-halverson"><img src="images/person-halverson.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Galen Halverson**  
 University College London, UK
 <galen.halverson@mcgill.ca>  
 
+<div style="clear:both;"></div>  
 ​<a href="https://www.birmingham.ac.uk/staff/profiles/gees/fairchild-ian"><img src="images/person-fairchild.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ian Fairchild**  
 University of Birmingham, UK

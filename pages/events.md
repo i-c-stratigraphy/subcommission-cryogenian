@@ -18,9 +18,9 @@ permalink: /events
 
 ***14th -21st June, 2025***
 This fieldtrip will be held directly after the 5th International Conference of Geobiology (10th -13th June) in Wuhan. We will set off from Wuhan on the 14th June. Departure will be on the 21st from Guilin. Details and cost are to follow...  
-Leader: Maoyan Zhu. Organiser: Chuan Yang
+Leader: Maoyan Zhu. Organiser: Chuan Yang  
 
-Basic itinerary:
+Basic itinerary:  
 06/13 evening: Travel from Wuhan to Yichang by train;  
 06/14: Visit sections in the Yangtze Gorges area, where we will see the sequence from upper Cryogenian to lower Cambrian (platform setting);  
 06/15: Travel a long distance from Yichang to Guzhang and visit sections near Guzhang, where we will see the sequence from Cryogenian to Cambrian (slope setting);  

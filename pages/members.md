@@ -150,9 +150,25 @@ Russian Academy of Sciences,Russia
 
 #### Honorary members
 
+​<a href="https://www.ucl.ac.uk/earth-sciences/people/academic/prof-graham-shields"><img src="images/person-shields.png" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Graham Shields**  
+University College London, UK
+<g.shields@ucl.ac.uk>  
+
+​<a href="https://www.mcgill.ca/eps/galen-pippa-halverson"><img src="images/person-halverson.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Galen Halverson**  
+University College London, UK
+<galen.halverson@mcgill.ca>  
+
+​<a href="https://www.birmingham.ac.uk/staff/profiles/gees/fairchild-ian"><img src="images/person-fairchild.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Ian Fairchild**  
+University of Birmingham, UK
+<i.j.fairchild@bham.ac.uk>
+
+....
 
 <a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Shihong Zhang**   Sadly voting member Shihong Zhang passed away end of 2024
+**Shihong Zhang**   Sadly voting member Shihong Zhang passed away end of 2024  
 State Key Laboratory of Biogeology and Environmental Geology,  
 China University of Geosciences Beijing, China  
 

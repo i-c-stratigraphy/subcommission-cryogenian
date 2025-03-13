@@ -16,7 +16,7 @@ permalink: /events
 
 ### Fieldtrip to explore Neoproterozoic-Cambrian transitional successions in South China  
 
-***14-20th June, 2025***
+***14th -21st June, 2025***
 This fieldtrip will be held directly after the 5th International Conference of Geobiology (10th -13th June) in Wuhan. We will set off from Wuhan on the 14th June. Departure will be on the 21st from Guilin. Details and cost are to follow...  
 Leader: Maoyan Zhu. Organiser: Chuan Yang
 

@@ -104,7 +104,7 @@ School of Earth and Space Science
 <bingshen@pku.edu.cn>  
 
 <div style="clear:both;"></div>  
-<a href="https://vcresearch.berkeley.edu/faculty/nicholas-swanson-hysell"><img src="images/nswanson-hysell.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
+<a href="https://vcresearch.berkeley.edu/faculty/nicholas-swanson-hysell"><img src="images/nswanson-hysell.jpg" style="width:100px; height:120px; float:left; margin-right:20px;" /></a>  
 **Nicholas L. Swanson-Hysell**  
 Associate Professor, Dept of Earth & Environmental Sciences  
 Associate Director, Institute for Rock Magnetism  
@@ -119,7 +119,7 @@ School of Earth Sciences
 <ricardo.trindade@iag.usp.br> ​  
 
 <div style="clear:both;"></div>  
-<a href="https://scholar.google.com/citations?user=fNVS3HUAAAAJ"><img src="images/Chuan Yang.jpg" style="width:100px; height: 150px; float:left; margin-right:20px;" /></a>  
+<a href="https://scholar.google.com/citations?user=fNVS3HUAAAAJ"><img src="images/Chuan Yang.jpg" style="width:100px; height:120px; float:left; margin-right:20px;" /></a>  
 **Chuan Yang**  
 Nanjing Institute of Geology and Palaeontology,  
 Chinese Academy of Sciences, China  

@@ -127,7 +127,7 @@ Chinese Academy of Sciences, China
 <div style="clear:both;"></div>  
 
 
-#### Temporarily suspended voting members, following IUGS's guidelines
+##### Temporarily suspended voting members, following IUGS's guidelines
 ​<a href="http://www.ipgg.sbras.ru/en/institute/staff/grazhdankindv"><img src="images/Dima.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Dmitriy Grazhdankin**  
 Trofimuk Institute of Petroleum Geology and Geophysics  
@@ -148,9 +148,11 @@ Palaeontological Institute
 Russian Academy of Sciences,Russia  
 <pinmuse@gmail.com>  
 
-#### Sadly voting member Shihong Zhang passed away end of 2024
+#### Honorary members
+
+
 <a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Shihong Zhang**  
+**Shihong Zhang**   Sadly voting member Shihong Zhang passed away end of 2024
 State Key Laboratory of Biogeology and Environmental Geology,  
 China University of Geosciences Beijing, China  
-<shzhang@cugb.edu.cn>   
+

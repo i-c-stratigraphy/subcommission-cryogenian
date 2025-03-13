@@ -119,7 +119,7 @@ School of Earth Sciences
 <ricardo.trindade@iag.usp.br> ​  
 
 <div style="clear:both;"></div>  
-<a href="https://scholar.google.com/citations?user=fNVS3HUAAAAJ"><img src="images/Chuan Yang.jpg" style="width:100px; height="200" float:left; margin-right:20px;" /></a>  
+<a href="https://scholar.google.com/citations?user=fNVS3HUAAAAJ"><img src="images/Chuan Yang.jpg" style="width:100px; height: 150px; float:left; margin-right:20px;" /></a>  
 **Chuan Yang**  
 Nanjing Institute of Geology and Palaeontology,  
 Chinese Academy of Sciences, China  

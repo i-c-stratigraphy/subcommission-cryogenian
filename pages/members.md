@@ -168,7 +168,6 @@ University of Birmingham, UK
 ....
 
 <a href="https://www.cryogenian.org/shihong-zhang.html"><img src="images/person-zhang.png" style="width:100px; float:left; margin-right:20px;" /></a>  
-**Shihong Zhang**   Sadly voting member Shihong Zhang passed away end of 2024  
-State Key Laboratory of Biogeology and Environmental Geology,  
+**Shihong Zhang**   Sadly voting member Shihong Zhang passed away end of 2024.    
 China University of Geosciences Beijing, China  
 

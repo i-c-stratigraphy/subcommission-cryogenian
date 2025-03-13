@@ -153,20 +153,27 @@ Russian Academy of Sciences,Russia
 <div style="clear:both;"></div>  
 ​<a href="https://www.mcgill.ca/eps/galen-pippa-halverson"><img src="images/person-halverson.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Galen Halverson**  
-McGill University, Canada
+McGill University, Canada  
 <galen.halverson@mcgill.ca>  
 
 <div style="clear:both;"></div>  
 ​<a href="https://www.ucl.ac.uk/earth-sciences/people/academic/prof-graham-shields"><img src="images/person-shields.png" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Graham Shields**  
-University College London, UK
+University College London, UK  
 <g.shields@ucl.ac.uk>  
 
 <div style="clear:both;"></div>  
 ​<a href="https://www.birmingham.ac.uk/staff/profiles/gees/fairchild-ian"><img src="images/person-fairchild.jpg" style="width:100px; float:left; margin-right:20px;" /></a>  
 **Ian Fairchild**  
-University of Birmingham, UK
+University of Birmingham, UK  
 <i.j.fairchild@bham.ac.uk>
+
+<div style="clear:both;"></div>  
+​<a href="https://www.geol.ucsb.edu/people/faculty/susannah-porter"><img src="images/person-porter.jpeg" style="width:100px; float:left; margin-right:20px;" /></a>  
+**Susannah Porter**  
+UC Santa Barbara, USA  
+<susporter@ucsb.edu>
+
 
 ....
 

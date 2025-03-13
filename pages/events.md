@@ -19,13 +19,32 @@ permalink: /events
 ***14-20th June, 2025***
 This fieldtrip will be held directly after the 5th International Conference of Geobiology (10th -13th June) in Wuhan. We will set off from Wuhan on the 14th June. Departure will be on the 21st from Guilin. Details and cost are to follow...  
 Leader: Maoyan Zhu. Organiser: Chuan Yang
+
+Basic itinerary:
+06/13 evening: Travel from Wuhan to Yichang by train;
+06/14: Visit sections in the Yangtze Gorges area, where we will see the sequence from upper Cryogenian to lower Cambrian (platform setting);
+06/15: Travel a long distance from Yichang to Guzhang and visit sections near Guzhang, where we will see the sequence from Cryogenian to Cambrian (slope setting);
+06/16: Travel from Guzhang to Jiangkou, and visit outcrops of interglacial Datangpo Formation and the Wenghui biota;
+06/17: Travel from Jiangkou to Weng'an and visit the Weng'an biota outcrops;
+06/18: Travel from Weng'an to Jianhe and attend the ceremony of the Cambrian Wuliuan GSSP;
+06/19: Travel from Jianghe to Zhaoxing and visit Tonian-Cryogenian transitional outcrops;
+06/20: Travel from Zhaoxing to Sanjiang and visit Cryogenian successions;
+06/21: Travel from Sanjiang to Guilin international airport.
+
+Estimated cost per participant: 1200 USD, including
+Field guides and all support material;
+Transfer by train and bus throughout the trip;
+8 dinners/7 lunches + non-alcoholic drinks throughout the trip;
+8 night hotels;
+Logistic assistance.
+
 This seven-day, prostconference fieldtrip will provide an overview of the stratigraphy of Neoproterozoic-Cambrian transition in the South China Block. The stratigraphic units we will examine during this fieldtrip cover successions ranging from the shallow water to deep water facies, including (from oldest to the youngest) the pre-Cryogenian Gongdong, Cryogenian Chang’an, Fulu, Datangpo, and Nantuo formations, Ediacaran Doushantuo and Dengying formations, and the early Cambrian Yanjiahe formations and their equivalents. These units host critical records of Earth-Life System Evolution across the Neoproterozoic and Cambrian transition, including but not limited to the Snowball Earth event, the Neoproterozoic oxygenation event, and the Cambrian explosion. Besides, we will visit the GSSP for the conterminous base of the Miaolingian Series and Wuliuan Stage (Cambrian) at Balang and attend its ribbon-cutting ceremony.  
 <img src="images/South China fieldtrip.jpg" style="width:700px;" /><br />
 (A) General itinerary of the 2025 fieldtrip in China. (B) Dropstone in the base of Cryogenian at Zhaoxing section. (C) Cap carbonate in the base of Ediacaran at Huajipo section. (D) Eight-armed Ediacara fossil Eoandromeda octobrachiata at Wenghui section. (E) Late Ediacaran trackways in the middle part of Dengying Formation.
 
 ---
 
-### Fieldtrip to North Namibia ***September, 2025***  
+### Fieldtrip to North Namibia ***postponed to 2026***  
 Dates and more detailed plan will be updated soon....  
 Organisers: Fred Bowyer, Mandy Zieger-Hofmann, Ying Zhou...
 

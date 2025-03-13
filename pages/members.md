@@ -102,9 +102,9 @@ Uttar Pradesh, India
 School of Earth and Space Science  
 ​Peking University, Beijing, China  
 <bingshen@pku.edu.cn>  
-
 <div style="clear:both;"></div>  
-<a href="https://vcresearch.berkeley.edu/faculty/nicholas-swanson-hysell"><img src="images/nswanson-hysell.jpg" style="width:100px; height:120px; float:left; margin-right:20px;" /></a>  
+
+<a href="https://vcresearch.berkeley.edu/faculty/nicholas-swanson-hysell"><img src="images/nswanson-hysell.jpg" style="width:100px; height:110px; float:left; margin-right:20px;" /></a> 
 **Nicholas L. Swanson-Hysell**  
 Associate Professor, Dept of Earth & Environmental Sciences  
 Associate Director, Institute for Rock Magnetism  

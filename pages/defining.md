@@ -27,7 +27,7 @@ b. Proven potential for high precision chemostratigraphic correlation and / or;
 c. Proven potential for other means of global stratigraphic correlation, such as biostratigraphically useful fossils, pertinent climatic indicators, etc.  
  
 #### 3. Accessibility, Impact and Outreach  
-a. Relatively easy to all, including permits for rock collection to researchers, outreach and education potential (at minimal cost); 
+a. Relatively easy to all, including permits for rock collection to researchers, outreach and education potential (at minimal cost);   
 b. Site permanence for marker section and point.  
 
 ---
